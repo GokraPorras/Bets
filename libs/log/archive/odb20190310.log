@@ -1,0 +1,1284 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 01:42:28 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 3224@Antonio-HP
+
+[2019-03-10 01:42:28 #2 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 01:42:28 #3 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-10 01:42:28 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 13:47:33 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' has been recovered (tr. 45-45)
+
+[2019-03-10 13:47:33 #2 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 4868@Antonio-HP
+
+[2019-03-10 13:47:33 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 13:47:33 #4 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-10 13:47:33 #5 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 15:09:18 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 4952@Antonio-HP
+
+[2019-03-10 15:09:19 #2 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 15:09:19 #3 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-10 15:09:19 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 15:13:09 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 788@Antonio-HP
+
+[2019-03-10 15:13:10 #2 type.registry] 
+New type domain.Question
+
+[2019-03-10 15:13:10 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 15:13:10 #4 type.registry] 
+New type domain.Event
+
+[2019-03-10 15:13:10 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-10 15:13:10 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-10 15:13:10 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 15:18:41 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 4292@Antonio-HP
+
+[2019-03-10 15:18:41 #2 type.registry] 
+New type domain.User
+
+[2019-03-10 15:18:41 #3 type.registry] 
+New type domain.Admin
+
+[2019-03-10 15:18:41 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 15:20:06 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 7872@Antonio-HP
+
+[2019-03-10 15:20:06 #2 type.registry] 
+New type domain.User
+
+[2019-03-10 15:20:06 #3 type.registry] 
+New type domain.Admin
+
+[2019-03-10 15:20:06 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 15:20:06 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 15:20:06 #6 type.registry] 
+New type domain.Question
+
+[2019-03-10 15:20:06 #7 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 15:20:06 #8 type.registry] 
+New type domain.Event
+
+[2019-03-10 15:20:06 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-10 15:20:06 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-10 15:20:06 #11 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 15:20:59 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 9128@Antonio-HP
+
+[2019-03-10 15:20:59 #2 type.registry] 
+New type domain.User
+
+[2019-03-10 15:20:59 #3 type.registry] 
+New type domain.Admin
+
+[2019-03-10 15:20:59 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 15:20:59 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 15:20:59 #6 type.registry] 
+New type domain.Question
+
+[2019-03-10 15:20:59 #7 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 15:20:59 #8 type.registry] 
+New type domain.Event
+
+[2019-03-10 15:20:59 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-10 15:20:59 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-10 15:20:59 #11 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 15:21:19 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 8048@Antonio-HP
+
+[2019-03-10 15:21:19 #2 type.registry] 
+New type domain.User
+
+[2019-03-10 15:21:19 #3 type.registry] 
+New type domain.Admin
+
+[2019-03-10 15:21:19 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 15:21:19 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 15:21:19 #6 type.registry] 
+New type domain.Question
+
+[2019-03-10 15:21:19 #7 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 15:21:19 #8 type.registry] 
+New type domain.Event
+
+[2019-03-10 15:21:19 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-10 15:21:19 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-10 15:21:19 #11 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 15:23:11 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 8164@Antonio-HP
+
+[2019-03-10 15:23:11 #2 type.registry] 
+New type domain.User
+
+[2019-03-10 15:23:11 #3 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-10 15:23:11 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 15:23:11 #5 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 15:23:11 #6 type.registry] 
+New type domain.Admin
+
+[2019-03-10 15:23:11 #7 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 15:23:11 #8 type.registry] 
+New type domain.Question
+
+[2019-03-10 15:23:11 #9 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 15:23:11 #10 type.registry] 
+New type domain.Event
+
+[2019-03-10 15:23:11 #11 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-10 15:23:11 #12 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-10 15:23:11 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 15:23:34 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 3848@Antonio-HP
+
+[2019-03-10 15:23:35 #2 type.registry] 
+New type domain.User
+
+[2019-03-10 15:23:35 #3 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-10 15:23:35 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 15:23:35 #5 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 15:23:35 #6 type.registry] 
+New type domain.Admin
+
+[2019-03-10 15:23:35 #7 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 15:23:35 #8 type.registry] 
+New type domain.Question
+
+[2019-03-10 15:23:35 #9 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 15:23:35 #10 type.registry] 
+New type domain.Event
+
+[2019-03-10 15:23:35 #11 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-10 15:23:35 #12 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-10 15:23:35 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 15:27:30 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 8604@Antonio-HP
+
+[2019-03-10 15:27:31 #2 type.registry] 
+New type domain.User
+
+[2019-03-10 15:27:31 #3 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-10 15:27:31 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 15:27:31 #5 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 15:27:31 #6 type.registry] 
+New type domain.Admin
+
+[2019-03-10 15:27:31 #7 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 15:27:31 #8 type.registry] 
+New type domain.Question
+
+[2019-03-10 15:27:31 #9 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 15:27:31 #10 type.registry] 
+New type domain.Event
+
+[2019-03-10 15:27:31 #11 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-10 15:27:31 #12 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-10 15:27:31 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 15:28:27 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 6324@Antonio-HP
+
+[2019-03-10 15:28:27 #2 type.registry] 
+New type domain.User
+
+[2019-03-10 15:28:27 #3 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-10 15:28:27 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 15:28:27 #5 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 15:28:27 #6 type.registry] 
+New type domain.Admin
+
+[2019-03-10 15:28:27 #7 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 15:28:27 #8 type.registry] 
+New type domain.Question
+
+[2019-03-10 15:28:27 #9 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 15:28:27 #10 type.registry] 
+New type domain.Event
+
+[2019-03-10 15:28:27 #11 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-10 15:28:27 #12 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-10 15:28:27 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 15:29:06 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' has been recovered (tr. 1-7)
+
+[2019-03-10 15:29:06 #2 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 5292@Antonio-HP
+
+[2019-03-10 15:29:06 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 15:29:06 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 15:29:06 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 15:29:06 #6 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 15:29:06 #7 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 15:32:28 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 8208@Antonio-HP
+
+[2019-03-10 15:32:28 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 15:32:28 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 15:32:28 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 15:32:28 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 15:32:28 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 15:34:00 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 5472@Antonio-HP
+
+[2019-03-10 15:34:00 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 15:34:00 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 15:34:00 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 15:34:00 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 15:34:00 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 16:26:24 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 9504@Antonio-HP
+
+[2019-03-10 16:26:25 #2 type.registry] 
+New type domain.User
+
+[2019-03-10 16:26:25 #3 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-10 16:26:25 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 16:26:25 #5 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 16:26:25 #6 type.registry] 
+New type domain.Admin
+
+[2019-03-10 16:26:25 #7 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 16:26:25 #8 type.registry] 
+New type domain.Question
+
+[2019-03-10 16:26:25 #9 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 16:26:25 #10 type.registry] 
+New type domain.Event
+
+[2019-03-10 16:26:25 #11 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-10 16:26:25 #12 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-10 16:26:25 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 16:26:53 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' has been recovered (tr. 1-7)
+
+[2019-03-10 16:26:53 #2 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 9764@Antonio-HP
+
+[2019-03-10 16:26:53 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 16:26:53 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 16:26:53 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 16:26:53 #6 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 16:26:53 #7 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 16:56:56 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 9076@Antonio-HP
+
+[2019-03-10 16:56:56 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 16:56:56 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 16:56:56 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 16:56:56 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 16:56:56 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 16:58:14 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' has been recovered (tr. 8-8)
+
+[2019-03-10 16:58:14 #2 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 7460@Antonio-HP
+
+[2019-03-10 16:58:14 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 16:58:14 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 16:58:14 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 16:58:14 #6 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 16:58:14 #7 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 16:58:29 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 1156@Antonio-HP
+
+[2019-03-10 16:58:29 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 16:58:29 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 16:58:29 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 16:58:29 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 16:58:29 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 17:05:26 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 7820@Antonio-HP
+
+[2019-03-10 17:05:26 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 17:05:26 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 17:05:26 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 17:05:26 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 17:05:26 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 17:08:37 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 3280@Antonio-HP
+
+[2019-03-10 17:08:37 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 17:08:37 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 17:08:37 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 17:08:37 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 17:08:37 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 17:10:16 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 9308@Antonio-HP
+
+[2019-03-10 17:10:16 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 17:10:16 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 17:10:16 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 17:10:16 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 17:10:16 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 17:10:44 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 9864@Antonio-HP
+
+[2019-03-10 17:10:44 #2 type.registry] 
+New type domain.User
+
+[2019-03-10 17:10:44 #3 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-10 17:10:44 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 17:10:44 #5 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 17:10:44 #6 type.registry] 
+New type domain.Admin
+
+[2019-03-10 17:10:44 #7 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 17:10:45 #8 type.registry] 
+New type domain.Question
+
+[2019-03-10 17:10:45 #9 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 17:10:45 #10 type.registry] 
+New type domain.Event
+
+[2019-03-10 17:10:45 #11 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-10 17:10:45 #12 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-10 17:10:45 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 17:11:32 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 8548@Antonio-HP
+
+[2019-03-10 17:11:32 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 17:11:32 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 17:11:32 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 17:11:32 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 17:11:32 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 17:14:44 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 9760@Antonio-HP
+
+[2019-03-10 17:14:44 #2 type.registry] 
+New type domain.User
+
+[2019-03-10 17:14:44 #3 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-10 17:14:44 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 17:14:44 #5 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 17:14:44 #6 type.registry] 
+New type domain.Admin
+
+[2019-03-10 17:14:44 #7 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 17:14:44 #8 type.registry] 
+New type domain.Question
+
+[2019-03-10 17:14:44 #9 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 17:14:44 #10 type.registry] 
+New type domain.Event
+
+[2019-03-10 17:14:44 #11 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-10 17:14:44 #12 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-10 17:14:44 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 17:15:03 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' has been recovered (tr. 1-7)
+
+[2019-03-10 17:15:03 #2 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 10164@Antonio-HP
+
+[2019-03-10 17:15:03 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 17:15:03 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 17:15:03 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 17:15:03 #6 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 17:15:03 #7 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 17:16:03 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 5404@Antonio-HP
+
+[2019-03-10 17:16:03 #2 type.registry] 
+New type domain.User
+
+[2019-03-10 17:16:03 #3 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-10 17:16:03 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 17:16:03 #5 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 17:16:03 #6 type.registry] 
+New type domain.Admin
+
+[2019-03-10 17:16:03 #7 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 17:16:03 #8 type.registry] 
+New type domain.Question
+
+[2019-03-10 17:16:03 #9 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 17:16:03 #10 type.registry] 
+New type domain.Event
+
+[2019-03-10 17:16:03 #11 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-10 17:16:03 #12 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-10 17:16:03 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 17:16:55 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' has been recovered (tr. 1-7)
+
+[2019-03-10 17:16:55 #2 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 10188@Antonio-HP
+
+[2019-03-10 17:16:56 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 17:16:56 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 17:16:56 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 17:16:56 #6 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 17:16:56 #7 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 17:17:51 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 7708@Antonio-HP
+
+[2019-03-10 17:17:51 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 17:17:51 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 17:17:51 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 17:17:51 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 17:17:51 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 17:19:54 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 9020@Antonio-HP
+
+[2019-03-10 17:19:54 #2 type.registry] 
+New type domain.User
+
+[2019-03-10 17:19:54 #3 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-10 17:19:54 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 17:19:54 #5 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 17:19:54 #6 type.registry] 
+New type domain.Admin
+
+[2019-03-10 17:19:54 #7 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 17:19:54 #8 type.registry] 
+New type domain.Question
+
+[2019-03-10 17:19:54 #9 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 17:19:54 #10 type.registry] 
+New type domain.Event
+
+[2019-03-10 17:19:54 #11 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-10 17:19:54 #12 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-10 17:19:54 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 17:21:45 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 1400@Antonio-HP
+
+[2019-03-10 17:21:45 #2 type.registry] 
+New type domain.User
+
+[2019-03-10 17:21:45 #3 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-10 17:21:45 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 17:21:45 #5 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 17:21:45 #6 type.registry] 
+New type domain.Admin
+
+[2019-03-10 17:21:45 #7 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 17:21:45 #8 type.registry] 
+New type domain.Question
+
+[2019-03-10 17:21:45 #9 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 17:21:45 #10 type.registry] 
+New type domain.Event
+
+[2019-03-10 17:21:45 #11 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-10 17:21:45 #12 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-10 17:21:45 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 17:24:29 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 9852@Antonio-HP
+
+[2019-03-10 17:24:29 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 17:24:29 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 17:24:29 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 17:24:29 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 17:24:29 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 17:55:35 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' has been recovered (tr. 10-10)
+
+[2019-03-10 17:55:35 #2 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 8128@Antonio-HP
+
+[2019-03-10 17:55:35 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 17:55:35 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 17:55:35 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 17:55:35 #6 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 17:55:35 #7 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 17:58:46 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 736@Antonio-HP
+
+[2019-03-10 17:58:46 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 17:58:46 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 17:58:46 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 17:58:46 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 17:58:46 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 18:03:02 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 7816@Antonio-HP
+
+[2019-03-10 18:03:03 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 18:03:03 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 18:03:03 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 18:03:03 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 18:03:03 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 18:03:24 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 8912@Antonio-HP
+
+[2019-03-10 18:03:24 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 18:03:24 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 18:03:24 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 18:03:24 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 18:03:24 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 18:06:31 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 4740@Antonio-HP
+
+[2019-03-10 18:06:31 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 18:06:31 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 18:06:31 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 18:06:31 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 18:06:31 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 18:10:49 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 9692@Antonio-HP
+
+[2019-03-10 18:10:49 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 18:10:49 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 18:10:49 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 18:10:49 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 18:10:49 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 18:14:48 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' has been recovered (tr. 14-14)
+
+[2019-03-10 18:14:48 #2 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 9256@Antonio-HP
+
+[2019-03-10 18:14:48 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 18:14:48 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 18:14:48 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 18:14:49 #6 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 18:14:49 #7 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 18:16:04 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 980@Antonio-HP
+
+[2019-03-10 18:16:04 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 18:16:04 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 18:16:04 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 18:16:04 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 18:16:04 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 18:18:15 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 7508@Antonio-HP
+
+[2019-03-10 18:18:16 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 18:18:16 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 18:18:16 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 18:18:16 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 18:18:16 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 18:26:12 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 2436@Antonio-HP
+
+[2019-03-10 18:26:13 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 18:26:13 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 18:26:13 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 18:26:13 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 18:26:13 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 18:38:24 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 9308@Antonio-HP
+
+[2019-03-10 18:38:24 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 18:38:24 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 18:38:24 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 18:38:24 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 18:38:24 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 18:40:10 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 9480@Antonio-HP
+
+[2019-03-10 18:40:11 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 18:40:11 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 18:40:11 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 18:40:11 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 18:40:11 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 18:42:19 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 10404@Antonio-HP
+
+[2019-03-10 18:42:19 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 18:42:19 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 18:42:19 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 18:42:19 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 18:42:19 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 18:59:42 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' has been recovered (tr. 27-27)
+
+[2019-03-10 18:59:42 #2 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 5592@Antonio-HP
+
+[2019-03-10 18:59:42 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 18:59:42 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 18:59:42 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 18:59:42 #6 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 18:59:42 #7 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 19:06:57 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' has been recovered (tr. 28-28)
+
+[2019-03-10 19:06:57 #2 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 10168@Antonio-HP
+
+[2019-03-10 19:06:57 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 19:06:57 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 19:06:57 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 19:06:57 #6 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 19:06:57 #7 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 19:18:59 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 8232@Antonio-HP
+
+[2019-03-10 19:18:59 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 19:18:59 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 19:18:59 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 19:18:59 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 19:18:59 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 19:26:30 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 10988@Antonio-HP
+
+[2019-03-10 19:26:30 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 19:26:30 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 19:26:30 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 19:26:30 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 19:26:30 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-10 19:29:24 #1 store] 
+Database 'C:\Users\Antonio\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 8256@Antonio-HP
+
+[2019-03-10 19:29:24 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-10 19:29:24 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-10 19:29:24 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-10 19:29:24 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-10 19:29:24 #6 type] 
+Type domain.Event is not enhanced.
+

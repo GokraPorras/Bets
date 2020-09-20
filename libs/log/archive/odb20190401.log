@@ -1,0 +1,1043 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 21:58:02 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 24184@DESKTOP-H4LV7HH
+
+[2019-04-01 21:58:03 #2 type.registry] 
+New type domain.User
+
+[2019-04-01 21:58:03 #3 type.registry] 
+New type domain.Langilea
+
+[2019-04-01 21:58:03 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 21:58:03 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 21:58:03 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-04-01 21:58:03 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 21:58:03 #8 type.registry] 
+New type domain.Bet
+
+[2019-04-01 21:58:03 #9 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-04-01 21:58:03 #10 type.registry] 
+New type domain.Mugimendua
+
+[2019-04-01 21:58:03 #11 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-04-01 21:58:03 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 21:58:03 #13 type.registry] 
+New type domain.Result
+
+[2019-04-01 21:58:03 #14 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 21:58:03 #15 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 21:58:03 #16 type.registry] 
+New type domain.Question
+
+[2019-04-01 21:58:03 #17 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 21:58:03 #18 type.registry] 
+New type domain.Event
+
+[2019-04-01 21:58:03 #19 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-04-01 21:58:03 #20 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 21:58:03 #21 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-04-01 21:58:03 #22 type.registry] 
+New type domain.Admin
+
+[2019-04-01 21:58:03 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-01 21:58:03 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 21:58:56 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' has been recovered (tr. 1-7)
+
+[2019-04-01 21:58:56 #2 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 23272@DESKTOP-H4LV7HH
+
+[2019-04-01 21:58:56 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 21:58:56 #4 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 21:58:56 #5 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 21:58:56 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 21:58:56 #7 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 21:58:56 #8 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 21:58:56 #9 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 21:58:56 #10 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 21:58:56 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 22:07:31 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' has been recovered (tr. 8-18)
+
+[2019-04-01 22:07:31 #2 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 20208@DESKTOP-H4LV7HH
+
+[2019-04-01 22:07:32 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 22:07:32 #4 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 22:07:32 #5 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 22:07:32 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 22:07:32 #7 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 22:07:32 #8 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 22:07:32 #9 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 22:07:32 #10 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 22:07:32 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 22:08:34 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' has been recovered (tr. 19-19)
+
+[2019-04-01 22:08:34 #2 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 19528@DESKTOP-H4LV7HH
+
+[2019-04-01 22:08:34 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 22:08:34 #4 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 22:08:34 #5 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 22:08:34 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 22:08:34 #7 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 22:08:34 #8 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 22:08:34 #9 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 22:08:34 #10 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 22:08:34 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 22:11:02 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 24792@DESKTOP-H4LV7HH
+
+[2019-04-01 22:11:02 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 22:11:02 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 22:11:02 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 22:11:02 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 22:11:02 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 22:11:02 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 22:11:02 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 22:11:02 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 22:11:02 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 22:31:11 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 24516@DESKTOP-H4LV7HH
+
+[2019-04-01 22:31:11 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 22:31:11 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 22:31:11 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 22:31:11 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 22:31:11 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 22:31:11 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 22:31:11 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 22:31:11 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 22:31:11 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 22:51:55 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 22164@DESKTOP-H4LV7HH
+
+[2019-04-01 22:51:55 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 22:51:55 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 22:51:55 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 22:51:55 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 22:51:55 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 22:51:55 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 22:51:55 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 22:51:55 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 22:51:55 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 22:52:52 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 21704@DESKTOP-H4LV7HH
+
+[2019-04-01 22:52:52 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 22:52:52 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 22:52:52 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 22:52:52 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 22:52:52 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 22:52:52 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 22:52:52 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 22:52:52 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 22:52:52 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 22:53:55 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 22780@DESKTOP-H4LV7HH
+
+[2019-04-01 22:53:55 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 22:53:55 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 22:53:55 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 22:53:55 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 22:53:55 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 22:53:55 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 22:53:55 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 22:53:55 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 22:53:55 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 22:54:57 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 24136@DESKTOP-H4LV7HH
+
+[2019-04-01 22:54:57 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 22:54:57 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 22:54:57 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 22:54:57 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 22:54:57 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 22:54:57 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 22:54:57 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 22:54:57 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 22:54:57 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 22:56:36 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 18992@DESKTOP-H4LV7HH
+
+[2019-04-01 22:56:36 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 22:56:36 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 22:56:36 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 22:56:36 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 22:56:36 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 22:56:36 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 22:56:36 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 22:56:36 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 22:56:36 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 22:57:49 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 24136@DESKTOP-H4LV7HH
+
+[2019-04-01 22:57:49 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 22:57:49 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 22:57:49 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 22:57:49 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 22:57:49 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 22:57:49 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 22:57:49 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 22:57:49 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 22:57:49 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 22:58:13 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 21540@DESKTOP-H4LV7HH
+
+[2019-04-01 22:58:13 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 22:58:13 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 22:58:13 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 22:58:13 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 22:58:13 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 22:58:13 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 22:58:13 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 22:58:13 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 22:58:13 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 22:59:02 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 25532@DESKTOP-H4LV7HH
+
+[2019-04-01 22:59:02 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 22:59:02 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 22:59:02 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 22:59:02 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 22:59:02 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 22:59:02 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 22:59:02 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 22:59:02 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 22:59:02 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 23:00:12 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 21988@DESKTOP-H4LV7HH
+
+[2019-04-01 23:00:13 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 23:00:13 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 23:00:13 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 23:00:13 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 23:00:13 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 23:00:13 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 23:00:13 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 23:00:13 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 23:00:13 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 23:02:37 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 21180@DESKTOP-H4LV7HH
+
+[2019-04-01 23:02:37 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 23:02:37 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 23:02:37 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 23:02:37 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 23:02:37 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 23:02:37 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 23:02:37 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 23:02:37 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 23:02:37 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 23:03:09 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 15928@DESKTOP-H4LV7HH
+
+[2019-04-01 23:03:10 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 23:03:10 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 23:03:10 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 23:03:10 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 23:03:10 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 23:03:10 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 23:03:10 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 23:03:10 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 23:03:10 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 23:03:20 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 22236@DESKTOP-H4LV7HH
+
+[2019-04-01 23:03:20 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 23:03:20 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 23:03:20 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 23:03:20 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 23:03:21 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 23:03:21 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 23:03:21 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 23:03:21 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 23:03:21 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 23:05:27 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 18404@DESKTOP-H4LV7HH
+
+[2019-04-01 23:05:27 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 23:05:27 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 23:05:27 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 23:05:27 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 23:05:27 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 23:05:27 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 23:05:27 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 23:05:27 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 23:05:27 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 23:05:52 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 16216@DESKTOP-H4LV7HH
+
+[2019-04-01 23:05:52 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 23:05:52 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 23:05:52 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 23:05:52 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 23:05:52 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 23:05:52 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 23:05:52 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 23:05:52 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 23:05:52 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 23:06:34 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 4284@DESKTOP-H4LV7HH
+
+[2019-04-01 23:06:34 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 23:06:34 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 23:06:34 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 23:06:34 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 23:06:34 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 23:06:34 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 23:06:34 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 23:06:34 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 23:06:34 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 23:09:25 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 16880@DESKTOP-H4LV7HH
+
+[2019-04-01 23:09:25 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 23:09:25 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 23:09:26 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 23:09:26 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 23:09:26 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 23:09:26 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 23:09:26 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 23:09:26 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 23:09:26 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 23:10:39 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 21280@DESKTOP-H4LV7HH
+
+[2019-04-01 23:10:39 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 23:10:39 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 23:10:39 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 23:10:39 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 23:10:39 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 23:10:39 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 23:10:39 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 23:10:39 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 23:10:39 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 23:13:53 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 21624@DESKTOP-H4LV7HH
+
+[2019-04-01 23:13:53 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 23:13:53 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 23:13:53 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 23:13:54 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 23:13:54 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 23:13:54 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 23:13:54 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 23:13:54 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 23:13:54 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 23:14:22 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 25576@DESKTOP-H4LV7HH
+
+[2019-04-01 23:14:22 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 23:14:22 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 23:14:22 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 23:14:22 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 23:14:22 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 23:14:22 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 23:14:22 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 23:14:22 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 23:14:22 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 23:15:17 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 15836@DESKTOP-H4LV7HH
+
+[2019-04-01 23:15:17 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 23:15:17 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 23:15:17 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 23:15:17 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 23:15:17 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 23:15:17 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 23:15:17 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 23:15:17 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 23:15:17 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 23:23:28 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 19492@DESKTOP-H4LV7HH
+
+[2019-04-01 23:23:28 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 23:23:28 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 23:23:29 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 23:23:29 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 23:23:29 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 23:23:29 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 23:23:29 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 23:23:29 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 23:23:29 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 23:24:45 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 13940@DESKTOP-H4LV7HH
+
+[2019-04-01 23:24:45 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 23:24:45 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 23:24:45 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 23:24:45 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 23:24:45 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 23:24:45 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 23:24:45 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 23:24:45 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 23:24:45 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 23:29:18 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 7636@DESKTOP-H4LV7HH
+
+[2019-04-01 23:29:19 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 23:29:19 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 23:29:19 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 23:29:19 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 23:29:19 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 23:29:19 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 23:29:19 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 23:29:19 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 23:29:19 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 23:44:09 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 18080@DESKTOP-H4LV7HH
+
+[2019-04-01 23:44:09 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 23:44:09 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 23:44:09 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 23:44:09 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 23:44:09 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 23:44:09 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 23:44:09 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 23:44:09 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 23:44:09 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-01 23:45:19 #1 store] 
+Database 'C:\Users\gorka\Desktop\SI\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 26452@DESKTOP-H4LV7HH
+
+[2019-04-01 23:45:19 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-01 23:45:19 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-01 23:45:19 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-01 23:45:19 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-01 23:45:19 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-01 23:45:19 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-01 23:45:19 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-01 23:45:19 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-01 23:45:19 #10 type] 
+Type domain.Admin is not enhanced.
+

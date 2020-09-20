@@ -1,0 +1,1106 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-11 00:32:32 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' is opened by 1848@MSI
+
+[2019-04-11 00:32:32 #2 type.registry] 
+New type domain.User
+
+[2019-04-11 00:32:32 #3 type.registry] 
+New type domain.Admin
+
+[2019-04-11 00:32:32 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-04-11 00:32:32 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-11 00:32:32 #6 type.registry] 
+New type domain.Langilea
+
+[2019-04-11 00:32:32 #7 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-11 00:32:32 #8 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-04-11 00:32:32 #9 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-11 00:32:32 #10 type.registry] 
+New type domain.Bet
+
+[2019-04-11 00:32:32 #11 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-04-11 00:32:32 #12 type.registry] 
+New type domain.Mugimendua
+
+[2019-04-11 00:32:32 #13 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-04-11 00:32:32 #14 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-11 00:32:32 #15 type.registry] 
+New type domain.Result
+
+[2019-04-11 00:32:32 #16 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-11 00:32:32 #17 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-11 00:32:32 #18 type.registry] 
+New type domain.Question
+
+[2019-04-11 00:32:32 #19 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-11 00:32:32 #20 type.registry] 
+New type domain.Event
+
+[2019-04-11 00:32:32 #21 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-04-11 00:32:32 #22 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-11 00:32:32 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-04-11 00:32:32 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-11 00:34:34 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' is opened by 4288@MSI
+
+[2019-04-11 00:34:34 #2 type.registry] 
+New type domain.User
+
+[2019-04-11 00:34:34 #3 type.registry] 
+New type domain.Admin
+
+[2019-04-11 00:34:34 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-04-11 00:34:34 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-11 00:34:34 #6 type.registry] 
+New type domain.Langilea
+
+[2019-04-11 00:34:34 #7 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-11 00:34:34 #8 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-04-11 00:34:34 #9 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-11 00:34:34 #10 type.registry] 
+New type domain.Bet
+
+[2019-04-11 00:34:34 #11 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-04-11 00:34:34 #12 type.registry] 
+New type domain.Mugimendua
+
+[2019-04-11 00:34:34 #13 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-04-11 00:34:34 #14 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-11 00:34:34 #15 type.registry] 
+New type domain.Result
+
+[2019-04-11 00:34:34 #16 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-11 00:34:34 #17 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-11 00:34:35 #18 type.registry] 
+New type domain.Question
+
+[2019-04-11 00:34:35 #19 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-11 00:34:35 #20 type.registry] 
+New type domain.Event
+
+[2019-04-11 00:34:35 #21 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-04-11 00:34:35 #22 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-11 00:34:35 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-04-11 00:34:35 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-11 00:37:32 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' is opened by 3344@MSI
+
+[2019-04-11 00:37:32 #2 type.registry] 
+New type domain.User
+
+[2019-04-11 00:37:32 #3 type.registry] 
+New type domain.Admin
+
+[2019-04-11 00:37:32 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-04-11 00:37:32 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-11 00:37:32 #6 type.registry] 
+New type domain.Langilea
+
+[2019-04-11 00:37:32 #7 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-11 00:37:32 #8 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-04-11 00:37:32 #9 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-11 00:37:32 #10 type.registry] 
+New type domain.Bet
+
+[2019-04-11 00:37:32 #11 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-04-11 00:37:32 #12 type.registry] 
+New type domain.Mugimendua
+
+[2019-04-11 00:37:32 #13 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-04-11 00:37:32 #14 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-11 00:37:32 #15 type.registry] 
+New type domain.Result
+
+[2019-04-11 00:37:32 #16 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-11 00:37:32 #17 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-11 00:37:32 #18 type.registry] 
+New type domain.Question
+
+[2019-04-11 00:37:32 #19 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-11 00:37:32 #20 type.registry] 
+New type domain.Event
+
+[2019-04-11 00:37:32 #21 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-04-11 00:37:32 #22 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-11 00:37:32 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-04-11 00:37:32 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-11 00:40:02 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' is opened by 11072@MSI
+
+[2019-04-11 00:40:02 #2 type.registry] 
+New type domain.User
+
+[2019-04-11 00:40:02 #3 type.registry] 
+New type domain.Admin
+
+[2019-04-11 00:40:02 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-04-11 00:40:02 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-11 00:40:02 #6 type.registry] 
+New type domain.Langilea
+
+[2019-04-11 00:40:02 #7 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-11 00:40:02 #8 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-04-11 00:40:02 #9 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-11 00:40:02 #10 type.registry] 
+New type domain.Bet
+
+[2019-04-11 00:40:02 #11 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-04-11 00:40:02 #12 type.registry] 
+New type domain.Mugimendua
+
+[2019-04-11 00:40:02 #13 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-04-11 00:40:02 #14 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-11 00:40:02 #15 type.registry] 
+New type domain.Result
+
+[2019-04-11 00:40:02 #16 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-11 00:40:02 #17 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-11 00:40:02 #18 type.registry] 
+New type domain.Question
+
+[2019-04-11 00:40:02 #19 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-11 00:40:02 #20 type.registry] 
+New type domain.Event
+
+[2019-04-11 00:40:02 #21 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-04-11 00:40:02 #22 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-11 00:40:02 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-04-11 00:40:02 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-11 00:42:41 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' is opened by 11696@MSI
+
+[2019-04-11 00:42:41 #2 type.registry] 
+New type domain.User
+
+[2019-04-11 00:42:41 #3 type.registry] 
+New type domain.Admin
+
+[2019-04-11 00:42:41 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-04-11 00:42:41 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-11 00:42:41 #6 type.registry] 
+New type domain.Langilea
+
+[2019-04-11 00:42:41 #7 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-11 00:42:41 #8 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-04-11 00:42:41 #9 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-11 00:42:41 #10 type.registry] 
+New type domain.Bet
+
+[2019-04-11 00:42:41 #11 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-04-11 00:42:41 #12 type.registry] 
+New type domain.Mugimendua
+
+[2019-04-11 00:42:41 #13 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-04-11 00:42:41 #14 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-11 00:42:41 #15 type.registry] 
+New type domain.Result
+
+[2019-04-11 00:42:41 #16 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-11 00:42:41 #17 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-11 00:42:41 #18 type.registry] 
+New type domain.Question
+
+[2019-04-11 00:42:41 #19 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-11 00:42:41 #20 type.registry] 
+New type domain.Event
+
+[2019-04-11 00:42:41 #21 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-04-11 00:42:41 #22 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-11 00:42:41 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-04-11 00:42:41 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-11 00:51:15 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' has been recovered (tr. 1-33)
+
+[2019-04-11 00:51:15 #2 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' is opened by 10680@MSI
+
+[2019-04-11 00:51:15 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-04-11 00:51:15 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-11 00:51:15 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-11 00:51:15 #6 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-11 00:51:15 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-11 00:51:15 #8 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-11 00:51:15 #9 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-11 00:51:15 #10 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-11 00:51:15 #11 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-11 00:58:06 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' has been recovered (tr. 34-34)
+
+[2019-04-11 00:58:06 #2 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' is opened by 9292@MSI
+
+[2019-04-11 00:58:06 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-04-11 00:58:06 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-11 00:58:06 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-11 00:58:06 #6 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-11 00:58:06 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-11 00:58:06 #8 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-11 00:58:06 #9 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-11 00:58:06 #10 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-11 00:58:06 #11 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-11 01:07:10 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' has been recovered (tr. 35-39)
+
+[2019-04-11 01:07:10 #2 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' is opened by 10000@MSI
+
+[2019-04-11 01:07:10 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-04-11 01:07:10 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-11 01:07:10 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-11 01:07:10 #6 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-11 01:07:10 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-11 01:07:10 #8 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-11 01:07:10 #9 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-11 01:07:10 #10 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-11 01:07:10 #11 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-11 01:08:35 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' is opened by 8828@MSI
+
+[2019-04-11 01:08:35 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-11 01:08:35 #3 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-11 01:08:35 #4 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-11 01:08:35 #5 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-11 01:08:35 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-11 01:08:35 #7 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-11 01:08:35 #8 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-11 01:08:35 #9 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-11 01:08:35 #10 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-11 01:29:45 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' has been recovered (tr. 40-47)
+
+[2019-04-11 01:29:45 #2 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' is opened by 5488@MSI
+
+[2019-04-11 01:29:45 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-04-11 01:29:45 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-11 01:29:45 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-11 01:29:45 #6 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-11 01:29:45 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-11 01:29:45 #8 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-11 01:29:45 #9 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-11 01:29:45 #10 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-11 01:29:45 #11 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-11 01:32:28 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' is opened by 10344@MSI
+
+[2019-04-11 01:32:28 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-11 01:32:28 #3 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-11 01:32:28 #4 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-11 01:32:28 #5 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-11 01:32:28 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-11 01:32:28 #7 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-11 01:32:28 #8 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-11 01:32:28 #9 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-11 01:32:28 #10 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-11 01:44:00 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' is opened by 8596@MSI
+
+[2019-04-11 01:44:01 #2 type.registry] 
+New type domain.User
+
+[2019-04-11 01:44:01 #3 type.registry] 
+New type domain.Admin
+
+[2019-04-11 01:44:01 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-04-11 01:44:01 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-11 01:44:01 #6 type.registry] 
+New type domain.Langilea
+
+[2019-04-11 01:44:01 #7 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-11 01:44:01 #8 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-04-11 01:44:01 #9 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-11 01:44:01 #10 type.registry] 
+New type domain.Bet
+
+[2019-04-11 01:44:01 #11 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-04-11 01:44:01 #12 type.registry] 
+New type domain.Mugimendua
+
+[2019-04-11 01:44:01 #13 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-04-11 01:44:01 #14 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-11 01:44:01 #15 type.registry] 
+New type domain.Result
+
+[2019-04-11 01:44:01 #16 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-11 01:44:01 #17 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-11 01:44:01 #18 type.registry] 
+New type domain.Question
+
+[2019-04-11 01:44:01 #19 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-11 01:44:01 #20 type.registry] 
+New type domain.Event
+
+[2019-04-11 01:44:01 #21 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-04-11 01:44:01 #22 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-11 01:44:01 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-04-11 01:44:01 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-11 01:46:40 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' is opened by 5032@MSI
+
+[2019-04-11 01:46:40 #2 type.registry] 
+New type domain.User
+
+[2019-04-11 01:46:40 #3 type.registry] 
+New type domain.Admin
+
+[2019-04-11 01:46:40 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-04-11 01:46:40 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-11 01:46:40 #6 type.registry] 
+New type domain.Langilea
+
+[2019-04-11 01:46:40 #7 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-11 01:46:40 #8 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-04-11 01:46:40 #9 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-11 01:46:40 #10 type.registry] 
+New type domain.Bet
+
+[2019-04-11 01:46:40 #11 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-04-11 01:46:40 #12 type.registry] 
+New type domain.Mugimendua
+
+[2019-04-11 01:46:40 #13 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-04-11 01:46:40 #14 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-11 01:46:40 #15 type.registry] 
+New type domain.Result
+
+[2019-04-11 01:46:40 #16 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-11 01:46:40 #17 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-11 01:46:40 #18 type.registry] 
+New type domain.Question
+
+[2019-04-11 01:46:40 #19 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-11 01:46:40 #20 type.registry] 
+New type domain.Event
+
+[2019-04-11 01:46:40 #21 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-04-11 01:46:40 #22 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-11 01:46:40 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-04-11 01:46:40 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-11 01:48:51 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' is opened by 9092@MSI
+
+[2019-04-11 01:48:51 #2 type.registry] 
+New type domain.User
+
+[2019-04-11 01:48:51 #3 type.registry] 
+New type domain.Admin
+
+[2019-04-11 01:48:51 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-04-11 01:48:51 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-11 01:48:51 #6 type.registry] 
+New type domain.Langilea
+
+[2019-04-11 01:48:51 #7 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-11 01:48:51 #8 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-04-11 01:48:51 #9 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-11 01:48:51 #10 type.registry] 
+New type domain.Bet
+
+[2019-04-11 01:48:51 #11 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-04-11 01:48:51 #12 type.registry] 
+New type domain.Mugimendua
+
+[2019-04-11 01:48:51 #13 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-04-11 01:48:51 #14 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-11 01:48:51 #15 type.registry] 
+New type domain.Result
+
+[2019-04-11 01:48:51 #16 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-11 01:48:51 #17 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-11 01:48:51 #18 type.registry] 
+New type domain.Question
+
+[2019-04-11 01:48:51 #19 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-11 01:48:51 #20 type.registry] 
+New type domain.Event
+
+[2019-04-11 01:48:51 #21 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-04-11 01:48:51 #22 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-11 01:48:51 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-04-11 01:48:51 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-11 01:49:16 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' has been recovered (tr. 1-7)
+
+[2019-04-11 01:49:16 #2 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' is opened by 4572@MSI
+
+[2019-04-11 01:49:17 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-04-11 01:49:17 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-11 01:49:17 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-11 01:49:17 #6 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-11 01:49:17 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-11 01:49:17 #8 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-11 01:49:17 #9 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-11 01:49:17 #10 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-11 01:49:17 #11 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-11 02:00:21 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' has been recovered (tr. 8-8)
+
+[2019-04-11 02:00:21 #2 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' is opened by 4744@MSI
+
+[2019-04-11 02:00:21 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-04-11 02:00:21 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-11 02:00:21 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-11 02:00:21 #6 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-11 02:00:21 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-11 02:00:21 #8 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-11 02:00:21 #9 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-11 02:00:21 #10 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-11 02:00:21 #11 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-11 02:06:08 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' is opened by 8200@MSI
+
+[2019-04-11 02:06:08 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-11 02:06:08 #3 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-11 02:06:08 #4 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-11 02:06:08 #5 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-11 02:06:08 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-11 02:06:08 #7 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-11 02:06:08 #8 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-11 02:06:08 #9 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-11 02:06:08 #10 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-11 02:13:36 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' is opened by 3884@MSI
+
+[2019-04-11 02:13:36 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-11 02:13:36 #3 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-11 02:13:36 #4 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-11 02:13:36 #5 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-11 02:13:36 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-11 02:13:36 #7 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-11 02:13:36 #8 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-11 02:13:36 #9 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-11 02:13:36 #10 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-11 02:14:08 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' is opened by 8432@MSI
+
+[2019-04-11 02:14:08 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-04-11 02:14:08 #3 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-11 02:14:08 #4 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-11 02:14:08 #5 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-11 02:14:08 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-11 02:14:08 #7 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-11 02:14:08 #8 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-11 02:14:08 #9 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-11 02:14:08 #10 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-11 02:15:20 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' is opened by 5312@MSI
+
+[2019-04-11 02:15:20 #2 type.registry] 
+New type domain.User
+
+[2019-04-11 02:15:20 #3 type.registry] 
+New type domain.Admin
+
+[2019-04-11 02:15:20 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-04-11 02:15:20 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-11 02:15:20 #6 type.registry] 
+New type domain.Langilea
+
+[2019-04-11 02:15:20 #7 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-11 02:15:20 #8 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-04-11 02:15:20 #9 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-11 02:15:20 #10 type.registry] 
+New type domain.Bet
+
+[2019-04-11 02:15:20 #11 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-04-11 02:15:20 #12 type.registry] 
+New type domain.Mugimendua
+
+[2019-04-11 02:15:20 #13 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-04-11 02:15:20 #14 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-11 02:15:20 #15 type.registry] 
+New type domain.Result
+
+[2019-04-11 02:15:20 #16 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-11 02:15:20 #17 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-11 02:15:20 #18 type.registry] 
+New type domain.Question
+
+[2019-04-11 02:15:20 #19 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-11 02:15:20 #20 type.registry] 
+New type domain.Event
+
+[2019-04-11 02:15:20 #21 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-04-11 02:15:20 #22 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-11 02:15:20 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-04-11 02:15:20 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-11 02:16:43 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' has been recovered (tr. 1-7)
+
+[2019-04-11 02:16:43 #2 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' is opened by 6996@MSI
+
+[2019-04-11 02:16:43 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-04-11 02:16:43 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-11 02:16:43 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-11 02:16:43 #6 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-11 02:16:43 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-11 02:16:43 #8 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-11 02:16:43 #9 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-11 02:16:43 #10 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-11 02:16:43 #11 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-11 02:17:49 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' has been recovered (tr. 8-8)
+
+[2019-04-11 02:17:49 #2 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' is opened by 1332@MSI
+
+[2019-04-11 02:17:49 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-04-11 02:17:49 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-11 02:17:49 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-11 02:17:49 #6 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-11 02:17:49 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-11 02:17:49 #8 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-11 02:17:49 #9 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-11 02:17:49 #10 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-11 02:17:49 #11 type] 
+Type domain.Event is not enhanced.
+

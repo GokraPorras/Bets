@@ -1,0 +1,857 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 17:32:04 #1 server] 
+Server on port 6136 has started by 12236@MSI
+
+[2019-04-15 17:32:20 #2 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\libs\db\resources\bets.temp' is opened by 12236@MSI
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 17:32:20 #1 type.registry] 
+New type domain.User
+
+[2019-04-15 17:32:20 #2 type.registry] 
+New type domain.Admin
+
+[2019-04-15 17:32:20 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-04-15 17:32:20 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-15 17:32:20 #5 type.registry] 
+New type domain.Langilea
+
+[2019-04-15 17:32:20 #6 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-15 17:32:20 #7 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-04-15 17:32:20 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-15 17:32:20 #9 type.registry] 
+New type domain.Bet
+
+[2019-04-15 17:32:20 #10 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-04-15 17:32:20 #11 type.registry] 
+New type domain.Mugimendua
+
+[2019-04-15 17:32:20 #12 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-04-15 17:32:20 #13 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-15 17:32:20 #14 type.registry] 
+New type domain.Result
+
+[2019-04-15 17:32:20 #15 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-15 17:32:20 #16 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-15 17:32:20 #17 type.registry] 
+New type domain.Question
+
+[2019-04-15 17:32:20 #18 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-15 17:32:20 #19 type.registry] 
+New type domain.Event
+
+[2019-04-15 17:32:20 #20 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-04-15 17:32:20 #21 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-15 17:32:20 #22 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-04-15 17:32:20 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 17:33:24 #1 type] 
+Type domain.User is not enhanced.
+
+[2019-04-15 17:33:24 #2 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-15 17:33:24 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-15 17:33:24 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-15 17:33:24 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-15 17:33:24 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-15 17:33:24 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-15 17:33:24 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-15 17:33:24 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-15 17:33:46 #3 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\libs\db\resources\bets.temp' is closed by 12236@MSI
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 17:33:53 #1 server] 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(DualStackPlainSocketImpl.java:106)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:190)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:181)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 17:34:11 #1 server] 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(DualStackPlainSocketImpl.java:106)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:190)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:181)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 17:34:39 #1 server] 
+Server on port 6136 has started by 1856@MSI
+
+[2019-04-15 17:34:46 #2 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\libs\db\resources\bets.temp' is opened by 1856@MSI
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 17:34:46 #1 type.registry] 
+New type domain.User
+
+[2019-04-15 17:34:46 #2 type.registry] 
+New type domain.Admin
+
+[2019-04-15 17:34:46 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-04-15 17:34:46 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-15 17:34:46 #5 type.registry] 
+New type domain.Langilea
+
+[2019-04-15 17:34:46 #6 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-15 17:34:46 #7 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-04-15 17:34:46 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-15 17:34:46 #9 type.registry] 
+New type domain.Bet
+
+[2019-04-15 17:34:46 #10 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-04-15 17:34:46 #11 type.registry] 
+New type domain.Mugimendua
+
+[2019-04-15 17:34:46 #12 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-04-15 17:34:46 #13 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-15 17:34:46 #14 type.registry] 
+New type domain.Result
+
+[2019-04-15 17:34:46 #15 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-15 17:34:46 #16 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-15 17:34:46 #17 type.registry] 
+New type domain.Question
+
+[2019-04-15 17:34:46 #18 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-15 17:34:46 #19 type.registry] 
+New type domain.Event
+
+[2019-04-15 17:34:46 #20 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-04-15 17:34:46 #21 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-15 17:34:46 #22 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-04-15 17:34:46 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 17:35:37 #1 type] 
+Type domain.User is not enhanced.
+
+[2019-04-15 17:35:37 #2 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-15 17:35:37 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-15 17:35:37 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-15 17:35:37 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-15 17:35:37 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-15 17:35:37 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-15 17:35:37 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-15 17:35:37 #9 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 17:37:02 #1 type] 
+Type domain.User is not enhanced.
+
+[2019-04-15 17:37:02 #2 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-15 17:37:02 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-15 17:37:02 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-15 17:37:02 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-15 17:37:02 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-15 17:37:02 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-15 17:37:02 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-15 17:37:02 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-15 17:37:17 #3 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\libs\db\resources\bets.temp' is closed by 1856@MSI
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 17:37:41 #1 server] 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(DualStackPlainSocketImpl.java:106)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:190)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:181)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 17:37:57 #1 server] 
+Server on port 6136 has started by 12096@MSI
+
+[2019-04-15 17:38:10 #2 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\libs\db\resources\bets.temp' is opened by 12096@MSI
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 17:38:10 #1 type] 
+Type domain.User is not enhanced.
+
+[2019-04-15 17:38:10 #2 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-15 17:38:10 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-15 17:38:10 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-15 17:38:10 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-15 17:38:10 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-15 17:38:10 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-15 17:38:10 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-15 17:38:10 #9 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 17:38:31 #1 type] 
+Type domain.User is not enhanced.
+
+[2019-04-15 17:38:31 #2 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-15 17:38:31 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-15 17:38:31 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-15 17:38:31 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-15 17:38:31 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-15 17:38:31 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-15 17:38:31 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-15 17:38:31 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-15 17:39:01 #3 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\libs\db\resources\bets.temp' is closed by 12096@MSI
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 17:39:47 #1 server] 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(DualStackPlainSocketImpl.java:106)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:190)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:181)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 17:40:13 #1 server] 
+Server on port 6136 has started by 12608@MSI
+
+[2019-04-15 17:40:31 #2 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\libs\db\resources\bets.temp' is opened by 12608@MSI
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 17:40:32 #1 type] 
+Type domain.User is not enhanced.
+
+[2019-04-15 17:40:32 #2 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-15 17:40:32 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-15 17:40:32 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-15 17:40:32 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-15 17:40:32 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-15 17:40:32 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-15 17:40:32 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-15 17:40:32 #9 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 17:40:51 #1 type] 
+Type domain.User is not enhanced.
+
+[2019-04-15 17:40:51 #2 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-15 17:40:51 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-15 17:40:51 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-15 17:40:51 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-15 17:40:51 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-15 17:40:51 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-15 17:40:51 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-15 17:40:51 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-15 17:42:04 #3 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\libs\db\resources\bets.temp' is closed by 12608@MSI
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 17:42:39 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' has been recovered (tr. 9-33)
+
+[2019-04-15 17:42:39 #2 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\resources\bets.temp' is opened by 11040@MSI
+
+[2019-04-15 17:42:39 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-04-15 17:42:39 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-15 17:42:39 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-15 17:42:39 #6 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-15 17:42:39 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-15 17:42:39 #8 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-15 17:42:39 #9 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-15 17:42:39 #10 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-15 17:42:39 #11 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 17:47:07 #1 server] 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(DualStackPlainSocketImpl.java:106)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:190)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:181)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 17:47:42 #1 server] 
+Server on port 6136 has started by 7552@MSI
+
+[2019-04-15 17:47:58 #2 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\libs\db\resources\bets.temp' is opened by 7552@MSI
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 17:47:58 #1 type] 
+Type domain.User is not enhanced.
+
+[2019-04-15 17:47:58 #2 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-15 17:47:58 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-15 17:47:58 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-15 17:47:58 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-15 17:47:58 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-15 17:47:58 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-15 17:47:58 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-15 17:47:58 #9 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 17:49:09 #1 type] 
+Type domain.User is not enhanced.
+
+[2019-04-15 17:49:09 #2 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-15 17:49:09 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-15 17:49:09 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-15 17:49:09 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-15 17:49:09 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-15 17:49:09 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-15 17:49:09 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-15 17:49:09 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-15 17:51:42 #3 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\libs\db\resources\bets.temp' is closed by 7552@MSI
+
+[2019-04-15 18:03:06 #4 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\libs\db\resources\bets.temp' is opened by 7552@MSI
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 18:03:06 #1 type.registry] 
+New type domain.User
+
+[2019-04-15 18:03:06 #2 type.registry] 
+New type domain.Admin
+
+[2019-04-15 18:03:06 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-04-15 18:03:06 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-15 18:03:06 #5 type.registry] 
+New type domain.Langilea
+
+[2019-04-15 18:03:06 #6 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-15 18:03:06 #7 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-04-15 18:03:06 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-15 18:03:07 #9 type.registry] 
+New type domain.Bet
+
+[2019-04-15 18:03:07 #10 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-04-15 18:03:07 #11 type.registry] 
+New type domain.Mugimendua
+
+[2019-04-15 18:03:07 #12 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-04-15 18:03:07 #13 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-15 18:03:07 #14 type.registry] 
+New type domain.Result
+
+[2019-04-15 18:03:07 #15 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-15 18:03:07 #16 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-15 18:03:07 #17 type.registry] 
+New type domain.Question
+
+[2019-04-15 18:03:07 #18 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-15 18:03:07 #19 type.registry] 
+New type domain.Event
+
+[2019-04-15 18:03:07 #20 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-04-15 18:03:07 #21 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-15 18:03:07 #22 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-04-15 18:03:07 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 18:03:13 #1 server] 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(DualStackPlainSocketImpl.java:106)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:190)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:181)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+[2019-04-15 18:03:19 #5 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\libs\db\resources\bets.temp' is closed by 7552@MSI
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 18:04:29 #1 server] 
+Server on port 6136 has started by 10460@MSI
+
+[2019-04-15 18:04:33 #2 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\libs\db\resources\bets.temp' is opened by 10460@MSI
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 18:04:33 #1 type.registry] 
+New type domain.User
+
+[2019-04-15 18:04:33 #2 type.registry] 
+New type domain.Admin
+
+[2019-04-15 18:04:33 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-04-15 18:04:33 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-15 18:04:34 #5 type.registry] 
+New type domain.Langilea
+
+[2019-04-15 18:04:34 #6 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-15 18:04:34 #7 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-04-15 18:04:34 #8 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-15 18:04:34 #9 type.registry] 
+New type domain.Bet
+
+[2019-04-15 18:04:34 #10 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-04-15 18:04:34 #11 type.registry] 
+New type domain.Mugimendua
+
+[2019-04-15 18:04:34 #12 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-04-15 18:04:34 #13 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-15 18:04:34 #14 type.registry] 
+New type domain.Result
+
+[2019-04-15 18:04:34 #15 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-15 18:04:34 #16 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-15 18:04:34 #17 type.registry] 
+New type domain.Question
+
+[2019-04-15 18:04:34 #18 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-15 18:04:34 #19 type.registry] 
+New type domain.Event
+
+[2019-04-15 18:04:34 #20 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-04-15 18:04:34 #21 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-15 18:04:34 #22 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-04-15 18:04:34 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 18:05:24 #1 type] 
+Type domain.User is not enhanced.
+
+[2019-04-15 18:05:24 #2 type] 
+Type domain.Admin is not enhanced.
+
+[2019-04-15 18:05:24 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-04-15 18:05:24 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-04-15 18:05:24 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-04-15 18:05:24 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-04-15 18:05:24 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-04-15 18:05:24 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-04-15 18:05:24 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-04-15 18:09:31 #3 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\libs\db\resources\bets.temp' is closed by 10460@MSI
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 18:26:43 #1 server] 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(DualStackPlainSocketImpl.java:106)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:190)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:181)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 18:27:24 #1 server] 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(DualStackPlainSocketImpl.java:106)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:190)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:181)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 18:27:56 #1 server] 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(DualStackPlainSocketImpl.java:106)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:190)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:181)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-15 18:28:36 #1 server] 
+Server on port 6136 has started by 2332@MSI
+
+[2019-04-15 18:28:53 #2 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\libs\db\resources\bets.temp' is opened by 2332@MSI
+
+[2019-04-15 18:33:34 #3 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)-Web_Azken\libs\db\resources\bets.temp' is closed by 2332@MSI
+
+[2019-04-15 19:25:09 #4 server] 
+Server on port 6136 has stopped by 2332@MSI
+

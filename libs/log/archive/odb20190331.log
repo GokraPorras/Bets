@@ -1,0 +1,2544 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 00:18:21 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 3756@DESKTOP-VA4LKSU
+
+[2019-03-31 00:18:21 #2 type.registry] 
+New type domain.User
+
+[2019-03-31 00:18:21 #3 type.registry] 
+New type domain.Langilea
+
+[2019-03-31 00:18:21 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 00:18:21 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 00:18:21 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-31 00:18:21 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 00:18:21 #8 type.registry] 
+New type domain.Mugimendua
+
+[2019-03-31 00:18:22 #9 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-03-31 00:18:22 #10 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 00:18:22 #11 type.registry] 
+New type domain.Admin
+
+[2019-03-31 00:18:22 #12 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 00:18:22 #13 type.registry] 
+New type domain.Result
+
+[2019-03-31 00:18:22 #14 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 00:18:22 #15 type.registry] 
+New type domain.Question
+
+[2019-03-31 00:18:22 #16 type.registry] 
+New type domain.Bet
+
+[2019-03-31 00:18:22 #17 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-03-31 00:18:22 #18 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 00:18:22 #19 type.registry] 
+New type domain.Event
+
+[2019-03-31 00:18:22 #20 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-03-31 00:18:22 #21 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 00:18:22 #22 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 00:18:22 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-31 00:18:22 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 00:22:14 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 9552@DESKTOP-VA4LKSU
+
+[2019-03-31 00:22:15 #2 type.registry] 
+New type domain.User
+
+[2019-03-31 00:22:15 #3 type.registry] 
+New type domain.Langilea
+
+[2019-03-31 00:22:15 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 00:22:15 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 00:22:15 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-31 00:22:15 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 00:22:15 #8 type.registry] 
+New type domain.Mugimendua
+
+[2019-03-31 00:22:15 #9 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-03-31 00:22:15 #10 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 00:22:15 #11 type.registry] 
+New type domain.Admin
+
+[2019-03-31 00:22:15 #12 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 00:22:15 #13 type.registry] 
+New type domain.Result
+
+[2019-03-31 00:22:15 #14 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 00:22:15 #15 type.registry] 
+New type domain.Question
+
+[2019-03-31 00:22:15 #16 type.registry] 
+New type domain.Bet
+
+[2019-03-31 00:22:15 #17 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-03-31 00:22:15 #18 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 00:22:15 #19 type.registry] 
+New type domain.Event
+
+[2019-03-31 00:22:15 #20 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-03-31 00:22:15 #21 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 00:22:15 #22 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 00:22:15 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-31 00:22:15 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 00:54:16 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 7008@DESKTOP-VA4LKSU
+
+[2019-03-31 00:54:16 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 00:54:16 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 00:54:16 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 00:54:16 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 00:54:16 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 00:54:16 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 00:54:16 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 00:54:16 #9 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 00:54:16 #10 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 00:54:41 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 9176@DESKTOP-VA4LKSU
+
+[2019-03-31 00:54:41 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 00:54:42 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 00:54:42 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 00:54:42 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 00:54:42 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 00:54:42 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 00:54:42 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 00:54:42 #9 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 00:54:42 #10 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 00:59:13 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 6460@DESKTOP-VA4LKSU
+
+[2019-03-31 00:59:13 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 00:59:13 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 00:59:13 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 00:59:13 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 00:59:13 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 00:59:13 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 00:59:13 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 00:59:13 #9 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 00:59:13 #10 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 01:02:33 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 2460@DESKTOP-VA4LKSU
+
+[2019-03-31 01:02:34 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 01:02:34 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 01:02:34 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 01:02:34 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 01:02:34 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 01:02:34 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 01:02:34 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 01:02:34 #9 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 01:02:34 #10 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 01:05:47 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 8176@DESKTOP-VA4LKSU
+
+[2019-03-31 01:05:48 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 01:05:48 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 01:05:48 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 01:05:48 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 01:05:48 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 01:05:48 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 01:05:48 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 01:05:48 #9 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 01:05:48 #10 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 01:09:02 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' has been recovered (tr. 25-27)
+
+[2019-03-31 01:09:02 #2 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 10156@DESKTOP-VA4LKSU
+
+[2019-03-31 01:09:03 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 01:09:03 #4 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 01:09:03 #5 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 01:09:03 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 01:09:03 #7 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 01:09:03 #8 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 01:09:03 #9 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 01:09:03 #10 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 01:09:03 #11 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 01:11:37 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 4340@DESKTOP-VA4LKSU
+
+[2019-03-31 01:11:38 #2 type.registry] 
+New type domain.User
+
+[2019-03-31 01:11:38 #3 type.registry] 
+New type domain.Langilea
+
+[2019-03-31 01:11:38 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 01:11:38 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 01:11:38 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-31 01:11:38 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 01:11:38 #8 type.registry] 
+New type domain.Mugimendua
+
+[2019-03-31 01:11:38 #9 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-03-31 01:11:38 #10 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 01:11:38 #11 type.registry] 
+New type domain.Admin
+
+[2019-03-31 01:11:38 #12 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 01:11:38 #13 type.registry] 
+New type domain.Result
+
+[2019-03-31 01:11:38 #14 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 01:11:38 #15 type.registry] 
+New type domain.Question
+
+[2019-03-31 01:11:38 #16 type.registry] 
+New type domain.Bet
+
+[2019-03-31 01:11:38 #17 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-03-31 01:11:38 #18 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 01:11:38 #19 type.registry] 
+New type domain.Event
+
+[2019-03-31 01:11:38 #20 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-03-31 01:11:38 #21 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 01:11:38 #22 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 01:11:38 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-31 01:11:38 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 01:14:04 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 5564@DESKTOP-VA4LKSU
+
+[2019-03-31 01:14:05 #2 type.registry] 
+New type domain.User
+
+[2019-03-31 01:14:05 #3 type.registry] 
+New type domain.Langilea
+
+[2019-03-31 01:14:05 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 01:14:05 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 01:14:05 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-31 01:14:05 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 01:14:05 #8 type.registry] 
+New type domain.Mugimendua
+
+[2019-03-31 01:14:05 #9 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-03-31 01:14:05 #10 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 01:14:05 #11 type.registry] 
+New type domain.Admin
+
+[2019-03-31 01:14:05 #12 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 01:14:05 #13 type.registry] 
+New type domain.Result
+
+[2019-03-31 01:14:05 #14 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 01:14:05 #15 type.registry] 
+New type domain.Question
+
+[2019-03-31 01:14:05 #16 type.registry] 
+New type domain.Bet
+
+[2019-03-31 01:14:05 #17 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-03-31 01:14:05 #18 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 01:14:05 #19 type.registry] 
+New type domain.Event
+
+[2019-03-31 01:14:05 #20 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-03-31 01:14:05 #21 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 01:14:05 #22 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 01:14:05 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-31 01:14:05 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 01:33:25 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 772@DESKTOP-VA4LKSU
+
+[2019-03-31 01:33:25 #2 type.registry] 
+New type domain.User
+
+[2019-03-31 01:33:25 #3 type.registry] 
+New type domain.Langilea
+
+[2019-03-31 01:33:25 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 01:33:25 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 01:33:25 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-31 01:33:25 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 01:33:25 #8 type.registry] 
+New type domain.Mugimendua
+
+[2019-03-31 01:33:25 #9 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-03-31 01:33:25 #10 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 01:33:26 #11 type.registry] 
+New type domain.Admin
+
+[2019-03-31 01:33:26 #12 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 01:33:26 #13 type.registry] 
+New type domain.Result
+
+[2019-03-31 01:33:26 #14 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 01:33:26 #15 type.registry] 
+New type domain.Question
+
+[2019-03-31 01:33:26 #16 type.registry] 
+New type domain.Bet
+
+[2019-03-31 01:33:26 #17 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-03-31 01:33:26 #18 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 01:33:26 #19 type.registry] 
+New type domain.Event
+
+[2019-03-31 01:33:26 #20 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-03-31 01:33:26 #21 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 01:33:26 #22 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 01:33:26 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-31 01:33:26 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 01:43:35 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 3380@DESKTOP-VA4LKSU
+
+[2019-03-31 01:43:35 #2 type.registry] 
+New type domain.User
+
+[2019-03-31 01:43:35 #3 type.registry] 
+New type domain.Langilea
+
+[2019-03-31 01:43:35 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 01:43:35 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 01:43:35 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-31 01:43:35 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 01:43:35 #8 type.registry] 
+New type domain.Mugimendua
+
+[2019-03-31 01:43:36 #9 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-03-31 01:43:36 #10 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 01:43:36 #11 type.registry] 
+New type domain.Admin
+
+[2019-03-31 01:43:36 #12 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 01:43:36 #13 type.registry] 
+New type domain.Result
+
+[2019-03-31 01:43:36 #14 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 01:43:36 #15 type.registry] 
+New type domain.Question
+
+[2019-03-31 01:43:36 #16 type.registry] 
+New type domain.Bet
+
+[2019-03-31 01:43:36 #17 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-03-31 01:43:36 #18 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 01:43:36 #19 type.registry] 
+New type domain.Event
+
+[2019-03-31 01:43:36 #20 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-03-31 01:43:36 #21 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 01:43:36 #22 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 01:43:36 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-31 01:43:36 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 01:45:24 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 8312@DESKTOP-VA4LKSU
+
+[2019-03-31 01:45:25 #2 type.registry] 
+New type domain.User
+
+[2019-03-31 01:45:25 #3 type.registry] 
+New type domain.Langilea
+
+[2019-03-31 01:45:25 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 01:45:25 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 01:45:25 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-31 01:45:25 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 01:45:25 #8 type.registry] 
+New type domain.Mugimendua
+
+[2019-03-31 01:45:25 #9 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-03-31 01:45:25 #10 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 01:45:25 #11 type.registry] 
+New type domain.Admin
+
+[2019-03-31 01:45:25 #12 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 01:45:25 #13 type.registry] 
+New type domain.Result
+
+[2019-03-31 01:45:25 #14 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 01:45:25 #15 type.registry] 
+New type domain.Question
+
+[2019-03-31 01:45:25 #16 type.registry] 
+New type domain.Bet
+
+[2019-03-31 01:45:25 #17 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-03-31 01:45:25 #18 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 01:45:25 #19 type.registry] 
+New type domain.Event
+
+[2019-03-31 01:45:25 #20 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-03-31 01:45:25 #21 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 01:45:25 #22 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 01:45:25 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-31 01:45:25 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 01:46:40 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 6164@DESKTOP-VA4LKSU
+
+[2019-03-31 01:46:41 #2 type.registry] 
+New type domain.User
+
+[2019-03-31 01:46:41 #3 type.registry] 
+New type domain.Langilea
+
+[2019-03-31 01:46:41 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 01:46:41 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 01:46:41 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-31 01:46:41 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 01:46:41 #8 type.registry] 
+New type domain.Mugimendua
+
+[2019-03-31 01:46:41 #9 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-03-31 01:46:41 #10 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 01:46:41 #11 type.registry] 
+New type domain.Admin
+
+[2019-03-31 01:46:41 #12 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 01:46:41 #13 type.registry] 
+New type domain.Result
+
+[2019-03-31 01:46:41 #14 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 01:46:41 #15 type.registry] 
+New type domain.Question
+
+[2019-03-31 01:46:41 #16 type.registry] 
+New type domain.Bet
+
+[2019-03-31 01:46:41 #17 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-03-31 01:46:41 #18 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 01:46:41 #19 type.registry] 
+New type domain.Event
+
+[2019-03-31 01:46:41 #20 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-03-31 01:46:41 #21 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 01:46:41 #22 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 01:46:41 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-31 01:46:41 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 01:51:15 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 5124@DESKTOP-VA4LKSU
+
+[2019-03-31 01:51:16 #2 type.registry] 
+New type domain.User
+
+[2019-03-31 01:51:16 #3 type.registry] 
+New type domain.Langilea
+
+[2019-03-31 01:51:16 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 01:51:16 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 01:51:16 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-31 01:51:16 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 01:51:16 #8 type.registry] 
+New type domain.Mugimendua
+
+[2019-03-31 01:51:16 #9 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-03-31 01:51:16 #10 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 01:51:16 #11 type.registry] 
+New type domain.Admin
+
+[2019-03-31 01:51:16 #12 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 01:51:16 #13 type.registry] 
+New type domain.Result
+
+[2019-03-31 01:51:16 #14 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 01:51:16 #15 type.registry] 
+New type domain.Question
+
+[2019-03-31 01:51:16 #16 type.registry] 
+New type domain.Bet
+
+[2019-03-31 01:51:16 #17 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-03-31 01:51:16 #18 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 01:51:16 #19 type.registry] 
+New type domain.Event
+
+[2019-03-31 01:51:16 #20 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-03-31 01:51:16 #21 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 01:51:16 #22 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 01:51:16 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-31 01:51:16 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 03:11:18 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 8368@DESKTOP-VA4LKSU
+
+[2019-03-31 03:11:19 #2 type.registry] 
+New type domain.User
+
+[2019-03-31 03:11:19 #3 type.registry] 
+New type domain.Langilea
+
+[2019-03-31 03:11:19 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 03:11:19 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 03:11:19 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-31 03:11:19 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 03:11:19 #8 type.registry] 
+New type domain.Mugimendua
+
+[2019-03-31 03:11:19 #9 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-03-31 03:11:19 #10 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 03:11:19 #11 type.registry] 
+New type domain.Admin
+
+[2019-03-31 03:11:19 #12 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 03:11:19 #13 type.registry] 
+New type domain.Result
+
+[2019-03-31 03:11:19 #14 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 03:11:19 #15 type.registry] 
+New type domain.Question
+
+[2019-03-31 03:11:19 #16 type.registry] 
+New type domain.Bet
+
+[2019-03-31 03:11:19 #17 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-03-31 03:11:19 #18 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 03:11:19 #19 type.registry] 
+New type domain.Event
+
+[2019-03-31 03:11:19 #20 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-03-31 03:11:19 #21 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 03:11:19 #22 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 03:11:19 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-31 03:11:19 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 03:17:50 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 4448@DESKTOP-VA4LKSU
+
+[2019-03-31 03:17:51 #2 type.registry] 
+New type domain.User
+
+[2019-03-31 03:17:51 #3 type.registry] 
+New type domain.Langilea
+
+[2019-03-31 03:17:51 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 03:17:51 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 03:17:51 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-31 03:17:51 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 03:17:51 #8 type.registry] 
+New type domain.Mugimendua
+
+[2019-03-31 03:17:51 #9 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-03-31 03:17:51 #10 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 03:17:51 #11 type.registry] 
+New type domain.Admin
+
+[2019-03-31 03:17:51 #12 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 03:17:51 #13 type.registry] 
+New type domain.Result
+
+[2019-03-31 03:17:51 #14 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 03:17:51 #15 type.registry] 
+New type domain.Question
+
+[2019-03-31 03:17:51 #16 type.registry] 
+New type domain.Bet
+
+[2019-03-31 03:17:51 #17 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-03-31 03:17:51 #18 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 03:17:51 #19 type.registry] 
+New type domain.Event
+
+[2019-03-31 03:17:51 #20 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-03-31 03:17:51 #21 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 03:17:51 #22 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 03:17:51 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-31 03:17:51 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 03:19:48 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 9200@DESKTOP-VA4LKSU
+
+[2019-03-31 03:19:48 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 03:19:48 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 03:19:48 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 03:19:48 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 03:19:48 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 03:19:48 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 03:19:48 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 03:19:48 #9 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 03:19:48 #10 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 03:37:59 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 3296@DESKTOP-VA4LKSU
+
+[2019-03-31 03:38:00 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 03:38:00 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 03:38:00 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 03:38:00 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 03:38:00 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 03:38:00 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 03:38:00 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 03:38:00 #9 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 03:38:00 #10 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 03:42:31 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 4572@DESKTOP-VA4LKSU
+
+[2019-03-31 03:42:32 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 03:42:32 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 03:42:32 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 03:42:32 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 03:42:32 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 03:42:32 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 03:42:32 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 03:42:32 #9 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 03:42:32 #10 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 03:47:03 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 776@DESKTOP-VA4LKSU
+
+[2019-03-31 03:47:03 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 03:47:03 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 03:47:03 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 03:47:03 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 03:47:03 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 03:47:03 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 03:47:03 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 03:47:03 #9 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 03:47:03 #10 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 03:49:50 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 3072@DESKTOP-VA4LKSU
+
+[2019-03-31 03:49:50 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 03:49:50 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 03:49:50 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 03:49:50 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 03:49:50 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 03:49:50 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 03:49:50 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 03:49:50 #9 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 03:49:50 #10 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 04:03:30 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 1284@DESKTOP-VA4LKSU
+
+[2019-03-31 04:03:30 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 04:03:30 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 04:03:30 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 04:03:30 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 04:03:30 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 04:03:30 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 04:03:30 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 04:03:30 #9 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 04:03:30 #10 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 04:06:23 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 6316@DESKTOP-VA4LKSU
+
+[2019-03-31 04:06:23 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 04:06:24 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 04:06:24 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 04:06:24 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 04:06:24 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 04:06:24 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 04:06:24 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 04:06:24 #9 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 04:06:24 #10 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 04:08:51 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' has been recovered (tr. 83-83)
+
+[2019-03-31 04:08:52 #2 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 3312@DESKTOP-VA4LKSU
+
+[2019-03-31 04:08:52 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 04:08:52 #4 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 04:08:52 #5 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 04:08:52 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 04:08:52 #7 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 04:08:52 #8 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 04:08:52 #9 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 04:08:52 #10 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 04:08:52 #11 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 04:11:26 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 1828@DESKTOP-VA4LKSU
+
+[2019-03-31 04:11:27 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 04:11:27 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 04:11:27 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 04:11:27 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 04:11:27 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 04:11:27 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 04:11:27 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 04:11:27 #9 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 04:11:27 #10 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 04:24:32 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' has been recovered (tr. 84-94)
+
+[2019-03-31 04:24:32 #2 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 672@DESKTOP-VA4LKSU
+
+[2019-03-31 04:24:32 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 04:24:32 #4 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 04:24:32 #5 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 04:24:32 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 04:24:32 #7 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 04:24:32 #8 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 04:24:32 #9 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 04:24:32 #10 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 04:24:32 #11 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 04:25:10 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' has been recovered (tr. 95-96)
+
+[2019-03-31 04:25:10 #2 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 9208@DESKTOP-VA4LKSU
+
+[2019-03-31 04:25:11 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 04:25:11 #4 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 04:25:11 #5 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 04:25:11 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 04:25:11 #7 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 04:25:11 #8 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 04:25:11 #9 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 04:25:11 #10 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 04:25:11 #11 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 12:37:11 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 7032@DESKTOP-VA4LKSU
+
+[2019-03-31 12:37:12 #2 type.registry] 
+New type domain.User
+
+[2019-03-31 12:37:12 #3 type.registry] 
+New type domain.Langilea
+
+[2019-03-31 12:37:12 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 12:37:12 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 12:37:12 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-31 12:37:12 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 12:37:12 #8 type.registry] 
+New type domain.Bet
+
+[2019-03-31 12:37:12 #9 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-03-31 12:37:12 #10 type.registry] 
+New type domain.Mugimendua
+
+[2019-03-31 12:37:12 #11 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-03-31 12:37:12 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 12:37:12 #13 type.registry] 
+New type domain.Result
+
+[2019-03-31 12:37:12 #14 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 12:37:12 #15 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 12:37:12 #16 type.registry] 
+New type domain.Question
+
+[2019-03-31 12:37:12 #17 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 12:37:12 #18 type.registry] 
+New type domain.Event
+
+[2019-03-31 12:37:12 #19 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-03-31 12:37:12 #20 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 12:37:12 #21 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-31 12:37:12 #22 type.registry] 
+New type domain.Admin
+
+[2019-03-31 12:37:12 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 12:37:12 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 12:40:58 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 5636@DESKTOP-VA4LKSU
+
+[2019-03-31 12:40:58 #2 type.registry] 
+New type domain.User
+
+[2019-03-31 12:40:58 #3 type.registry] 
+New type domain.Langilea
+
+[2019-03-31 12:40:58 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 12:40:58 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 12:40:58 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-31 12:40:58 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 12:40:58 #8 type.registry] 
+New type domain.Bet
+
+[2019-03-31 12:40:59 #9 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-03-31 12:40:59 #10 type.registry] 
+New type domain.Mugimendua
+
+[2019-03-31 12:40:59 #11 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-03-31 12:40:59 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 12:40:59 #13 type.registry] 
+New type domain.Result
+
+[2019-03-31 12:40:59 #14 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 12:40:59 #15 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 12:40:59 #16 type.registry] 
+New type domain.Question
+
+[2019-03-31 12:40:59 #17 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 12:40:59 #18 type.registry] 
+New type domain.Event
+
+[2019-03-31 12:40:59 #19 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-03-31 12:40:59 #20 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 12:40:59 #21 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-31 12:40:59 #22 type.registry] 
+New type domain.Admin
+
+[2019-03-31 12:40:59 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 12:40:59 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 12:41:17 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 2760@DESKTOP-VA4LKSU
+
+[2019-03-31 12:41:18 #2 type.registry] 
+New type domain.User
+
+[2019-03-31 12:41:18 #3 type.registry] 
+New type domain.Langilea
+
+[2019-03-31 12:41:18 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 12:41:18 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 12:41:18 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-31 12:41:18 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 12:41:18 #8 type.registry] 
+New type domain.Bet
+
+[2019-03-31 12:41:18 #9 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-03-31 12:41:18 #10 type.registry] 
+New type domain.Mugimendua
+
+[2019-03-31 12:41:18 #11 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-03-31 12:41:18 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 12:41:18 #13 type.registry] 
+New type domain.Result
+
+[2019-03-31 12:41:18 #14 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 12:41:18 #15 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 12:41:18 #16 type.registry] 
+New type domain.Question
+
+[2019-03-31 12:41:18 #17 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 12:41:18 #18 type.registry] 
+New type domain.Event
+
+[2019-03-31 12:41:18 #19 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-03-31 12:41:18 #20 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 12:41:18 #21 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-31 12:41:18 #22 type.registry] 
+New type domain.Admin
+
+[2019-03-31 12:41:18 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 12:41:18 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 12:48:28 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 4332@DESKTOP-VA4LKSU
+
+[2019-03-31 12:48:28 #2 type.registry] 
+New type domain.User
+
+[2019-03-31 12:48:28 #3 type.registry] 
+New type domain.Langilea
+
+[2019-03-31 12:48:28 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 12:48:28 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 12:48:28 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-31 12:48:28 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 12:48:28 #8 type.registry] 
+New type domain.Bet
+
+[2019-03-31 12:48:28 #9 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-03-31 12:48:28 #10 type.registry] 
+New type domain.Mugimendua
+
+[2019-03-31 12:48:28 #11 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-03-31 12:48:28 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 12:48:28 #13 type.registry] 
+New type domain.Result
+
+[2019-03-31 12:48:28 #14 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 12:48:28 #15 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 12:48:28 #16 type.registry] 
+New type domain.Question
+
+[2019-03-31 12:48:28 #17 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 12:48:28 #18 type.registry] 
+New type domain.Event
+
+[2019-03-31 12:48:28 #19 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-03-31 12:48:28 #20 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 12:48:28 #21 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-31 12:48:28 #22 type.registry] 
+New type domain.Admin
+
+[2019-03-31 12:48:28 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 12:48:28 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 12:51:24 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 6148@DESKTOP-VA4LKSU
+
+[2019-03-31 12:51:24 #2 type.registry] 
+New type domain.User
+
+[2019-03-31 12:51:24 #3 type.registry] 
+New type domain.Langilea
+
+[2019-03-31 12:51:24 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 12:51:24 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 12:51:25 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-31 12:51:25 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 12:51:25 #8 type.registry] 
+New type domain.Bet
+
+[2019-03-31 12:51:25 #9 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-03-31 12:51:25 #10 type.registry] 
+New type domain.Mugimendua
+
+[2019-03-31 12:51:25 #11 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-03-31 12:51:25 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 12:51:25 #13 type.registry] 
+New type domain.Result
+
+[2019-03-31 12:51:25 #14 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 12:51:25 #15 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 12:51:25 #16 type.registry] 
+New type domain.Question
+
+[2019-03-31 12:51:25 #17 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 12:51:25 #18 type.registry] 
+New type domain.Event
+
+[2019-03-31 12:51:25 #19 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-03-31 12:51:25 #20 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 12:51:25 #21 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-31 12:51:25 #22 type.registry] 
+New type domain.Admin
+
+[2019-03-31 12:51:25 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 12:51:25 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 12:53:15 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 8908@DESKTOP-VA4LKSU
+
+[2019-03-31 12:53:15 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 12:53:15 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 12:53:15 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 12:53:15 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 12:53:15 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 12:53:15 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 12:53:15 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 12:53:15 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 12:53:15 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 12:59:59 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 9140@DESKTOP-VA4LKSU
+
+[2019-03-31 12:59:59 #2 type.registry] 
+New type domain.User
+
+[2019-03-31 12:59:59 #3 type.registry] 
+New type domain.Langilea
+
+[2019-03-31 12:59:59 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 12:59:59 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 13:00:00 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-31 13:00:00 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 13:00:00 #8 type.registry] 
+New type domain.Bet
+
+[2019-03-31 13:00:00 #9 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-03-31 13:00:00 #10 type.registry] 
+New type domain.Mugimendua
+
+[2019-03-31 13:00:00 #11 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-03-31 13:00:00 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 13:00:00 #13 type.registry] 
+New type domain.Result
+
+[2019-03-31 13:00:00 #14 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 13:00:00 #15 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 13:00:00 #16 type.registry] 
+New type domain.Question
+
+[2019-03-31 13:00:00 #17 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 13:00:00 #18 type.registry] 
+New type domain.Event
+
+[2019-03-31 13:00:00 #19 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-03-31 13:00:00 #20 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 13:00:00 #21 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-31 13:00:00 #22 type.registry] 
+New type domain.Admin
+
+[2019-03-31 13:00:00 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 13:00:00 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 13:02:24 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 4592@DESKTOP-VA4LKSU
+
+[2019-03-31 13:02:24 #2 type.registry] 
+New type domain.User
+
+[2019-03-31 13:02:24 #3 type.registry] 
+New type domain.Langilea
+
+[2019-03-31 13:02:24 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 13:02:24 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 13:02:24 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-31 13:02:24 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 13:02:24 #8 type.registry] 
+New type domain.Bet
+
+[2019-03-31 13:02:24 #9 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-03-31 13:02:24 #10 type.registry] 
+New type domain.Mugimendua
+
+[2019-03-31 13:02:24 #11 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-03-31 13:02:24 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 13:02:24 #13 type.registry] 
+New type domain.Result
+
+[2019-03-31 13:02:24 #14 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 13:02:24 #15 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 13:02:24 #16 type.registry] 
+New type domain.Question
+
+[2019-03-31 13:02:24 #17 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 13:02:24 #18 type.registry] 
+New type domain.Event
+
+[2019-03-31 13:02:24 #19 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-03-31 13:02:24 #20 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 13:02:24 #21 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-31 13:02:24 #22 type.registry] 
+New type domain.Admin
+
+[2019-03-31 13:02:24 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 13:02:24 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 13:04:10 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 4408@DESKTOP-VA4LKSU
+
+[2019-03-31 13:04:10 #2 type.registry] 
+New type domain.User
+
+[2019-03-31 13:04:10 #3 type.registry] 
+New type domain.Langilea
+
+[2019-03-31 13:04:10 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 13:04:10 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 13:04:10 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-31 13:04:10 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 13:04:11 #8 type.registry] 
+New type domain.Bet
+
+[2019-03-31 13:04:11 #9 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-03-31 13:04:11 #10 type.registry] 
+New type domain.Mugimendua
+
+[2019-03-31 13:04:11 #11 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-03-31 13:04:11 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 13:04:11 #13 type.registry] 
+New type domain.Result
+
+[2019-03-31 13:04:11 #14 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 13:04:11 #15 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 13:04:11 #16 type.registry] 
+New type domain.Question
+
+[2019-03-31 13:04:11 #17 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 13:04:11 #18 type.registry] 
+New type domain.Event
+
+[2019-03-31 13:04:11 #19 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-03-31 13:04:11 #20 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 13:04:11 #21 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-31 13:04:11 #22 type.registry] 
+New type domain.Admin
+
+[2019-03-31 13:04:11 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 13:04:11 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 13:05:43 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 10036@DESKTOP-VA4LKSU
+
+[2019-03-31 13:05:44 #2 type.registry] 
+New type domain.User
+
+[2019-03-31 13:05:44 #3 type.registry] 
+New type domain.Langilea
+
+[2019-03-31 13:05:44 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 13:05:44 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 13:05:44 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-31 13:05:44 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 13:05:44 #8 type.registry] 
+New type domain.Bet
+
+[2019-03-31 13:05:44 #9 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-03-31 13:05:44 #10 type.registry] 
+New type domain.Mugimendua
+
+[2019-03-31 13:05:44 #11 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-03-31 13:05:44 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 13:05:44 #13 type.registry] 
+New type domain.Result
+
+[2019-03-31 13:05:44 #14 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 13:05:44 #15 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 13:05:44 #16 type.registry] 
+New type domain.Question
+
+[2019-03-31 13:05:44 #17 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 13:05:44 #18 type.registry] 
+New type domain.Event
+
+[2019-03-31 13:05:44 #19 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-03-31 13:05:44 #20 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 13:05:44 #21 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-31 13:05:44 #22 type.registry] 
+New type domain.Admin
+
+[2019-03-31 13:05:44 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 13:05:44 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 13:07:28 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 7968@DESKTOP-VA4LKSU
+
+[2019-03-31 13:07:28 #2 type.registry] 
+New type domain.User
+
+[2019-03-31 13:07:28 #3 type.registry] 
+New type domain.Langilea
+
+[2019-03-31 13:07:28 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 13:07:28 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 13:07:28 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-31 13:07:28 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 13:07:28 #8 type.registry] 
+New type domain.Bet
+
+[2019-03-31 13:07:28 #9 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-03-31 13:07:28 #10 type.registry] 
+New type domain.Mugimendua
+
+[2019-03-31 13:07:28 #11 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-03-31 13:07:28 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 13:07:28 #13 type.registry] 
+New type domain.Result
+
+[2019-03-31 13:07:28 #14 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 13:07:28 #15 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 13:07:28 #16 type.registry] 
+New type domain.Question
+
+[2019-03-31 13:07:28 #17 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 13:07:28 #18 type.registry] 
+New type domain.Event
+
+[2019-03-31 13:07:28 #19 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-03-31 13:07:28 #20 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 13:07:28 #21 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-31 13:07:28 #22 type.registry] 
+New type domain.Admin
+
+[2019-03-31 13:07:28 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 13:07:28 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 13:25:16 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 8332@DESKTOP-VA4LKSU
+
+[2019-03-31 13:25:16 #2 type.registry] 
+New type domain.User
+
+[2019-03-31 13:25:16 #3 type.registry] 
+New type domain.Langilea
+
+[2019-03-31 13:25:16 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 13:25:16 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 13:25:16 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-31 13:25:16 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 13:25:16 #8 type.registry] 
+New type domain.Bet
+
+[2019-03-31 13:25:16 #9 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-03-31 13:25:16 #10 type.registry] 
+New type domain.Mugimendua
+
+[2019-03-31 13:25:16 #11 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-03-31 13:25:16 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 13:25:16 #13 type.registry] 
+New type domain.Result
+
+[2019-03-31 13:25:16 #14 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 13:25:16 #15 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 13:25:16 #16 type.registry] 
+New type domain.Question
+
+[2019-03-31 13:25:16 #17 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 13:25:16 #18 type.registry] 
+New type domain.Event
+
+[2019-03-31 13:25:16 #19 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-03-31 13:25:16 #20 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 13:25:16 #21 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-31 13:25:16 #22 type.registry] 
+New type domain.Admin
+
+[2019-03-31 13:25:16 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 13:25:16 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 13:30:45 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 5520@DESKTOP-VA4LKSU
+
+[2019-03-31 13:30:46 #2 type.registry] 
+New type domain.User
+
+[2019-03-31 13:30:46 #3 type.registry] 
+New type domain.Langilea
+
+[2019-03-31 13:30:46 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 13:30:46 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 13:30:46 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-31 13:30:46 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 13:30:46 #8 type.registry] 
+New type domain.Bet
+
+[2019-03-31 13:30:46 #9 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-03-31 13:30:46 #10 type.registry] 
+New type domain.Mugimendua
+
+[2019-03-31 13:30:46 #11 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-03-31 13:30:46 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 13:30:46 #13 type.registry] 
+New type domain.Result
+
+[2019-03-31 13:30:46 #14 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 13:30:46 #15 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 13:30:46 #16 type.registry] 
+New type domain.Question
+
+[2019-03-31 13:30:46 #17 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 13:30:46 #18 type.registry] 
+New type domain.Event
+
+[2019-03-31 13:30:46 #19 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-03-31 13:30:46 #20 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 13:30:46 #21 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-31 13:30:46 #22 type.registry] 
+New type domain.Admin
+
+[2019-03-31 13:30:46 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 13:30:46 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 13:33:25 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 9164@DESKTOP-VA4LKSU
+
+[2019-03-31 13:33:25 #2 type.registry] 
+New type domain.User
+
+[2019-03-31 13:33:25 #3 type.registry] 
+New type domain.Langilea
+
+[2019-03-31 13:33:25 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 13:33:25 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 13:33:25 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-31 13:33:25 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 13:33:26 #8 type.registry] 
+New type domain.Bet
+
+[2019-03-31 13:33:26 #9 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-03-31 13:33:26 #10 type.registry] 
+New type domain.Mugimendua
+
+[2019-03-31 13:33:26 #11 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-03-31 13:33:26 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 13:33:26 #13 type.registry] 
+New type domain.Result
+
+[2019-03-31 13:33:26 #14 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 13:33:26 #15 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 13:33:26 #16 type.registry] 
+New type domain.Question
+
+[2019-03-31 13:33:26 #17 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 13:33:26 #18 type.registry] 
+New type domain.Event
+
+[2019-03-31 13:33:26 #19 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-03-31 13:33:26 #20 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 13:33:26 #21 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-31 13:33:26 #22 type.registry] 
+New type domain.Admin
+
+[2019-03-31 13:33:26 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 13:33:26 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 13:35:20 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 1260@DESKTOP-VA4LKSU
+
+[2019-03-31 13:35:21 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 13:35:21 #3 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 13:35:21 #4 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 13:35:21 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 13:35:21 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 13:35:21 #7 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 13:35:21 #8 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 13:35:21 #9 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 13:35:21 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 13:37:19 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 4948@DESKTOP-VA4LKSU
+
+[2019-03-31 13:37:20 #2 type.registry] 
+New type domain.User
+
+[2019-03-31 13:37:20 #3 type.registry] 
+New type domain.Langilea
+
+[2019-03-31 13:37:20 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 13:37:20 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 13:37:20 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-31 13:37:20 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 13:37:20 #8 type.registry] 
+New type domain.Bet
+
+[2019-03-31 13:37:20 #9 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-03-31 13:37:20 #10 type.registry] 
+New type domain.Mugimendua
+
+[2019-03-31 13:37:20 #11 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-03-31 13:37:20 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 13:37:20 #13 type.registry] 
+New type domain.Result
+
+[2019-03-31 13:37:20 #14 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 13:37:20 #15 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 13:37:20 #16 type.registry] 
+New type domain.Question
+
+[2019-03-31 13:37:20 #17 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 13:37:20 #18 type.registry] 
+New type domain.Event
+
+[2019-03-31 13:37:20 #19 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-03-31 13:37:20 #20 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 13:37:20 #21 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-31 13:37:20 #22 type.registry] 
+New type domain.Admin
+
+[2019-03-31 13:37:20 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 13:37:20 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-31 13:54:27 #1 store] 
+Database 'C:\Users\pedro\Desktop\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 3688@DESKTOP-VA4LKSU
+
+[2019-03-31 13:54:27 #2 type.registry] 
+New type domain.User
+
+[2019-03-31 13:54:27 #3 type.registry] 
+New type domain.Langilea
+
+[2019-03-31 13:54:27 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-31 13:54:27 #5 type] 
+Type domain.Langilea is not enhanced.
+
+[2019-03-31 13:54:27 #6 type.registry] 
+New type domain.Erabiltzailea
+
+[2019-03-31 13:54:27 #7 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-31 13:54:28 #8 type.registry] 
+New type domain.Bet
+
+[2019-03-31 13:54:28 #9 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2019-03-31 13:54:28 #10 type.registry] 
+New type domain.Mugimendua
+
+[2019-03-31 13:54:28 #11 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2019-03-31 13:54:28 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2019-03-31 13:54:28 #13 type.registry] 
+New type domain.Result
+
+[2019-03-31 13:54:28 #14 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2019-03-31 13:54:28 #15 type] 
+Type domain.Result is not enhanced.
+
+[2019-03-31 13:54:28 #16 type.registry] 
+New type domain.Question
+
+[2019-03-31 13:54:28 #17 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-31 13:54:28 #18 type.registry] 
+New type domain.Event
+
+[2019-03-31 13:54:28 #19 type.registry] 
+New type java.util.Vector<domain.Result>
+
+[2019-03-31 13:54:28 #20 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-31 13:54:28 #21 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-31 13:54:28 #22 type.registry] 
+New type domain.Admin
+
+[2019-03-31 13:54:28 #23 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-31 13:54:28 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+

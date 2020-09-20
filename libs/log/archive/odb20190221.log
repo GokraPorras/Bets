@@ -1,0 +1,806 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 08:11:21 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 9920@U030092
+
+[2019-02-21 08:11:21 #2 type.registry] 
+New type domain.Question
+
+[2019-02-21 08:11:21 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 08:11:21 #4 type.registry] 
+New type domain.Event
+
+[2019-02-21 08:11:21 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 08:11:21 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 08:11:21 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 08:34:47 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 5520@U030092
+
+[2019-02-21 08:34:47 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 08:34:47 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 08:34:47 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 08:34:47 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 08:34:47 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 08:34:47 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 08:34:47 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 08:34:47 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 08:53:25 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 10972@U030092
+
+[2019-02-21 08:53:25 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 08:53:25 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 08:53:25 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 08:53:25 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 08:53:25 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 08:53:25 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 08:53:25 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 08:53:25 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 08:56:34 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 4280@U030092
+
+[2019-02-21 08:56:34 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 08:56:34 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 08:56:34 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 08:56:34 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 08:56:34 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 08:56:34 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 08:56:34 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 08:56:34 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 09:08:28 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 4504@U030092
+
+[2019-02-21 09:08:28 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 09:08:28 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 09:08:28 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 09:08:28 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 09:08:28 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 09:08:28 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 09:08:28 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 09:08:28 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 09:09:17 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 7016@U030092
+
+[2019-02-21 09:09:18 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 09:09:18 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 09:09:18 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 09:09:18 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 09:09:18 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 09:09:18 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 09:09:18 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 09:09:18 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 09:09:34 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 10720@U030092
+
+[2019-02-21 09:09:34 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 09:09:34 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 09:09:34 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 09:09:34 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 09:09:34 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 09:09:34 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 09:09:34 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 09:09:34 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 09:10:00 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 10408@U030092
+
+[2019-02-21 09:10:00 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 09:10:00 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 09:10:00 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 09:10:00 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 09:10:00 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 09:10:00 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 09:10:00 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 09:10:00 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 09:10:39 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 1808@U030092
+
+[2019-02-21 09:10:40 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 09:10:40 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 09:10:40 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 09:10:40 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 09:10:40 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 09:10:40 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 09:10:40 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 09:10:40 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 09:11:10 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 5264@U030092
+
+[2019-02-21 09:11:10 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 09:11:10 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 09:11:10 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 09:11:10 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 09:11:10 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 09:11:10 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 09:11:10 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 09:11:10 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 09:12:26 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 9964@U030092
+
+[2019-02-21 09:12:26 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 09:12:26 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 09:12:26 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 09:12:26 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 09:12:26 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 09:12:26 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 09:12:26 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 09:12:26 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 09:12:43 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 11212@U030092
+
+[2019-02-21 09:12:44 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 09:12:44 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 09:12:44 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 09:12:44 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 09:12:44 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 09:12:44 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 09:12:44 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 09:12:44 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 09:13:24 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 9644@U030092
+
+[2019-02-21 09:13:24 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 09:13:24 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 09:13:24 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 09:13:24 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 09:13:24 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 09:13:24 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 09:13:24 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 09:13:24 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 09:13:42 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 6340@U030092
+
+[2019-02-21 09:13:42 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 09:13:42 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 09:13:42 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 09:13:42 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 09:13:42 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 09:13:42 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 09:13:42 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 09:13:42 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 09:13:59 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 6672@U030092
+
+[2019-02-21 09:13:59 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 09:13:59 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 09:13:59 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 09:13:59 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 09:13:59 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 09:13:59 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 09:13:59 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 09:13:59 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 09:14:08 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 4280@U030092
+
+[2019-02-21 09:14:08 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 09:14:08 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 09:14:08 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 09:14:08 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 09:14:08 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 09:14:08 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 09:14:08 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 09:14:08 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 09:17:17 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 4000@U030092
+
+[2019-02-21 09:17:17 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 09:17:17 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 09:17:17 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 09:17:17 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 09:17:17 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 09:17:17 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 09:17:17 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 09:17:17 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 09:17:27 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 9768@U030092
+
+[2019-02-21 09:17:27 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 09:17:27 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 09:17:27 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 09:17:27 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 09:17:27 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 09:17:27 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 09:17:27 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 09:17:27 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 09:18:25 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 4280@U030092
+
+[2019-02-21 09:18:25 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 09:18:25 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 09:18:25 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 09:18:25 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 09:18:25 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 09:18:25 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 09:18:25 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 09:18:25 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 09:19:35 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 7104@U030092
+
+[2019-02-21 09:19:35 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 09:19:35 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 09:19:35 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 09:19:35 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 09:19:35 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 09:19:35 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 09:19:35 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 09:19:35 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 09:20:10 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 5804@U030092
+
+[2019-02-21 09:20:10 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 09:20:10 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 09:20:10 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 09:20:10 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 09:20:10 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 09:20:10 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 09:20:10 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 09:20:10 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 09:24:10 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 9068@U030092
+
+[2019-02-21 09:24:10 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 09:24:10 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 09:24:10 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 09:24:10 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 09:24:10 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 09:24:10 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 09:24:10 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 09:24:10 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 09:24:37 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 2368@U030092
+
+[2019-02-21 09:24:37 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 09:24:37 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 09:24:37 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 09:24:37 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 09:24:37 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 09:24:37 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 09:24:37 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 09:24:37 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 09:24:47 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 7240@U030092
+
+[2019-02-21 09:24:47 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 09:24:47 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 09:24:47 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 09:24:47 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 09:24:47 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 09:24:47 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 09:24:47 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 09:24:47 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 09:28:29 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 1240@U030092
+
+[2019-02-21 09:28:30 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 09:28:30 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 09:28:30 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 09:28:30 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 09:28:30 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 09:28:30 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 09:28:30 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 09:28:30 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 09:29:07 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 5528@U030092
+
+[2019-02-21 09:29:07 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 09:29:07 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 09:29:07 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 09:29:07 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 09:29:07 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 09:29:07 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 09:29:07 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 09:29:07 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 09:29:23 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 7208@U030092
+
+[2019-02-21 09:29:23 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 09:29:23 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 09:29:23 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 09:29:23 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 09:29:23 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 09:29:23 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 09:29:23 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 09:29:23 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-02-21 09:29:30 #1 store] 
+Database 'C:\Users\ehu\Desktop\Iterazio 0\2019Proiektua\Bets\resources\bets.temp' is opened by 1268@U030092
+
+[2019-02-21 09:29:30 #2 type.registry] 
+New type domain.User
+
+[2019-02-21 09:29:30 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-02-21 09:29:30 #4 type.registry] 
+New type domain.Question
+
+[2019-02-21 09:29:30 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-02-21 09:29:30 #6 type.registry] 
+New type domain.Event
+
+[2019-02-21 09:29:30 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-02-21 09:29:30 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-02-21 09:29:30 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+

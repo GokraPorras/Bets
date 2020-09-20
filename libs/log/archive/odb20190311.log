@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-11 14:08:03 #1 store] 
+Database 'C:\Users\david\Desktop\Login_Register_Motak(Extends)\resources\bets.temp' is opened by 2348@MSI
+
+[2019-03-11 14:08:03 #2 type] 
+Type domain.User is not enhanced.
+
+[2019-03-11 14:08:03 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2019-03-11 14:08:03 #4 type] 
+Type domain.Admin is not enhanced.
+
+[2019-03-11 14:08:03 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-11 14:08:03 #6 type] 
+Type domain.Event is not enhanced.
+

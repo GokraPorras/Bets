@@ -1,0 +1,1124 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 11:01:28 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 6608@MSI
+
+[2019-03-01 11:01:29 #2 type.registry] 
+New type domain.User
+
+[2019-03-01 11:01:29 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-01 11:01:29 #4 type.registry] 
+New type domain.Question
+
+[2019-03-01 11:01:29 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 11:01:29 #6 type.registry] 
+New type domain.Event
+
+[2019-03-01 11:01:29 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 11:01:29 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 11:01:29 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 11:03:12 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 9768@MSI
+
+[2019-03-01 11:03:12 #2 type.registry] 
+New type domain.User
+
+[2019-03-01 11:03:12 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-01 11:03:12 #4 type.registry] 
+New type domain.Question
+
+[2019-03-01 11:03:12 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 11:03:12 #6 type.registry] 
+New type domain.Event
+
+[2019-03-01 11:03:12 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 11:03:13 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 11:03:13 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 11:17:12 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 924@MSI
+
+[2019-03-01 11:17:12 #2 type.registry] 
+New type domain.User
+
+[2019-03-01 11:17:12 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-01 11:17:12 #4 type.registry] 
+New type domain.Question
+
+[2019-03-01 11:17:12 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 11:17:12 #6 type.registry] 
+New type domain.Event
+
+[2019-03-01 11:17:12 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 11:17:12 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 11:17:12 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 11:17:31 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 12000@MSI
+
+[2019-03-01 11:17:31 #2 type.registry] 
+New type domain.User
+
+[2019-03-01 11:17:31 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-01 11:17:31 #4 type.registry] 
+New type domain.Question
+
+[2019-03-01 11:17:31 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 11:17:31 #6 type.registry] 
+New type domain.Event
+
+[2019-03-01 11:17:31 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 11:17:31 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 11:17:31 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 11:20:40 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 5976@MSI
+
+[2019-03-01 11:20:40 #2 type.registry] 
+New type domain.User
+
+[2019-03-01 11:20:40 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-01 11:20:40 #4 type.registry] 
+New type domain.Question
+
+[2019-03-01 11:20:40 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 11:20:40 #6 type.registry] 
+New type domain.Event
+
+[2019-03-01 11:20:40 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 11:20:40 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 11:20:40 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 11:21:49 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 11760@MSI
+
+[2019-03-01 11:21:50 #2 type.registry] 
+New type domain.User
+
+[2019-03-01 11:21:50 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-01 11:21:50 #4 type.registry] 
+New type domain.Question
+
+[2019-03-01 11:21:50 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 11:21:50 #6 type.registry] 
+New type domain.Event
+
+[2019-03-01 11:21:50 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 11:21:50 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 11:21:50 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 11:24:08 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 6112@MSI
+
+[2019-03-01 11:24:09 #2 type.registry] 
+New type domain.User
+
+[2019-03-01 11:24:09 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-01 11:24:09 #4 type.registry] 
+New type domain.Question
+
+[2019-03-01 11:24:09 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 11:24:09 #6 type.registry] 
+New type domain.Event
+
+[2019-03-01 11:24:09 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 11:24:09 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 11:24:09 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 11:24:48 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 7736@MSI
+
+[2019-03-01 11:24:48 #2 type.registry] 
+New type domain.User
+
+[2019-03-01 11:24:48 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-01 11:24:48 #4 type.registry] 
+New type domain.Question
+
+[2019-03-01 11:24:48 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 11:24:48 #6 type.registry] 
+New type domain.Event
+
+[2019-03-01 11:24:48 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 11:24:48 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 11:24:48 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 11:27:40 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 9368@MSI
+
+[2019-03-01 11:27:40 #2 type.registry] 
+New type domain.User
+
+[2019-03-01 11:27:40 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-01 11:27:40 #4 type.registry] 
+New type domain.Question
+
+[2019-03-01 11:27:40 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 11:27:40 #6 type.registry] 
+New type domain.Event
+
+[2019-03-01 11:27:40 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 11:27:40 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 11:27:40 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 11:30:43 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 3940@MSI
+
+[2019-03-01 11:30:43 #2 type.registry] 
+New type domain.User
+
+[2019-03-01 11:30:43 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-01 11:30:43 #4 type.registry] 
+New type domain.Question
+
+[2019-03-01 11:30:43 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 11:30:43 #6 type.registry] 
+New type domain.Event
+
+[2019-03-01 11:30:43 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 11:30:43 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 11:30:43 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 11:31:49 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 1908@MSI
+
+[2019-03-01 11:31:49 #2 type.registry] 
+New type domain.User
+
+[2019-03-01 11:31:49 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-01 11:31:49 #4 type.registry] 
+New type domain.Question
+
+[2019-03-01 11:31:49 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 11:31:49 #6 type.registry] 
+New type domain.Event
+
+[2019-03-01 11:31:49 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 11:31:49 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 11:31:49 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 11:32:42 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 12928@MSI
+
+[2019-03-01 11:32:43 #2 type.registry] 
+New type domain.User
+
+[2019-03-01 11:32:43 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-01 11:32:43 #4 type.registry] 
+New type domain.Question
+
+[2019-03-01 11:32:43 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 11:32:43 #6 type.registry] 
+New type domain.Event
+
+[2019-03-01 11:32:43 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 11:32:43 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 11:32:43 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 11:32:54 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 9620@MSI
+
+[2019-03-01 11:32:54 #2 type.registry] 
+New type domain.User
+
+[2019-03-01 11:32:54 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-01 11:32:54 #4 type.registry] 
+New type domain.Question
+
+[2019-03-01 11:32:54 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 11:32:54 #6 type.registry] 
+New type domain.Event
+
+[2019-03-01 11:32:54 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 11:32:54 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 11:32:54 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 11:37:56 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 11724@MSI
+
+[2019-03-01 11:37:56 #2 type.registry] 
+New type domain.User
+
+[2019-03-01 11:37:56 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-01 11:37:56 #4 type.registry] 
+New type domain.Question
+
+[2019-03-01 11:37:56 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 11:37:56 #6 type.registry] 
+New type domain.Event
+
+[2019-03-01 11:37:56 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 11:37:56 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 11:37:56 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 11:38:28 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 3904@MSI
+
+[2019-03-01 11:38:28 #2 type.registry] 
+New type domain.User
+
+[2019-03-01 11:38:28 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-01 11:38:28 #4 type.registry] 
+New type domain.Question
+
+[2019-03-01 11:38:28 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 11:38:28 #6 type.registry] 
+New type domain.Event
+
+[2019-03-01 11:38:28 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 11:38:28 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 11:38:28 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 11:40:01 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 376@MSI
+
+[2019-03-01 11:40:02 #2 type.registry] 
+New type domain.User
+
+[2019-03-01 11:40:02 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-01 11:40:02 #4 type.registry] 
+New type domain.Question
+
+[2019-03-01 11:40:02 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 11:40:02 #6 type.registry] 
+New type domain.Event
+
+[2019-03-01 11:40:02 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 11:40:02 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 11:40:02 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 11:43:41 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 2896@MSI
+
+[2019-03-01 11:43:41 #2 type.registry] 
+New type domain.User
+
+[2019-03-01 11:43:41 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-01 11:43:41 #4 type.registry] 
+New type domain.Question
+
+[2019-03-01 11:43:41 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 11:43:41 #6 type.registry] 
+New type domain.Event
+
+[2019-03-01 11:43:41 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 11:43:41 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 11:43:41 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 11:47:19 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 3844@MSI
+
+[2019-03-01 11:47:19 #2 type.registry] 
+New type domain.User
+
+[2019-03-01 11:47:19 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-01 11:47:20 #4 type.registry] 
+New type domain.Question
+
+[2019-03-01 11:47:20 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 11:47:20 #6 type.registry] 
+New type domain.Event
+
+[2019-03-01 11:47:20 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 11:47:20 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 11:47:20 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 11:48:16 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 14120@MSI
+
+[2019-03-01 11:48:16 #2 type.registry] 
+New type domain.User
+
+[2019-03-01 11:48:16 #3 type] 
+Type domain.User is not enhanced.
+
+[2019-03-01 11:48:16 #4 type.registry] 
+New type domain.Question
+
+[2019-03-01 11:48:16 #5 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 11:48:16 #6 type.registry] 
+New type domain.Event
+
+[2019-03-01 11:48:16 #7 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 11:48:16 #8 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 11:48:16 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 11:49:12 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 11240@MSI
+
+[2019-03-01 11:49:12 #2 type.registry] 
+New type domain.Question
+
+[2019-03-01 11:49:12 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 11:49:12 #4 type.registry] 
+New type domain.Event
+
+[2019-03-01 11:49:12 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 11:49:12 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 11:49:12 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2019-03-01 11:49:18 #8 type.registry] 
+New type domain.User
+
+[2019-03-01 11:49:18 #9 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 11:49:24 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 9212@MSI
+
+[2019-03-01 11:49:24 #2 type.registry] 
+New type domain.Question
+
+[2019-03-01 11:49:24 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 11:49:24 #4 type.registry] 
+New type domain.Event
+
+[2019-03-01 11:49:24 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 11:49:24 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 11:49:24 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2019-03-01 11:49:31 #8 type.registry] 
+New type domain.User
+
+[2019-03-01 11:49:31 #9 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 11:56:12 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 8076@MSI
+
+[2019-03-01 11:56:12 #2 type.registry] 
+New type domain.Question
+
+[2019-03-01 11:56:12 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 11:56:12 #4 type.registry] 
+New type domain.Event
+
+[2019-03-01 11:56:12 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 11:56:12 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 11:56:12 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 11:57:28 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 8816@MSI
+
+[2019-03-01 11:57:28 #2 type.registry] 
+New type domain.Question
+
+[2019-03-01 11:57:28 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 11:57:28 #4 type.registry] 
+New type domain.Event
+
+[2019-03-01 11:57:28 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 11:57:28 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 11:57:28 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 11:57:32 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 11628@MSI
+
+[2019-03-01 11:57:32 #2 type.registry] 
+New type domain.Question
+
+[2019-03-01 11:57:32 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 11:57:32 #4 type.registry] 
+New type domain.Event
+
+[2019-03-01 11:57:32 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 11:57:32 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 11:57:32 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 11:58:04 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 5156@MSI
+
+[2019-03-01 11:58:04 #2 type.registry] 
+New type domain.Question
+
+[2019-03-01 11:58:04 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 11:58:04 #4 type.registry] 
+New type domain.Event
+
+[2019-03-01 11:58:04 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 11:58:04 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 11:58:04 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 11:58:07 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 8268@MSI
+
+[2019-03-01 11:58:07 #2 type.registry] 
+New type domain.Question
+
+[2019-03-01 11:58:07 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 11:58:08 #4 type.registry] 
+New type domain.Event
+
+[2019-03-01 11:58:08 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 11:58:08 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 11:58:08 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 12:03:20 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 12804@MSI
+
+[2019-03-01 12:03:20 #2 type.registry] 
+New type domain.Question
+
+[2019-03-01 12:03:20 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 12:03:20 #4 type.registry] 
+New type domain.Event
+
+[2019-03-01 12:03:20 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 12:03:20 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 12:03:20 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2019-03-01 12:03:27 #8 type.registry] 
+New type domain.User
+
+[2019-03-01 12:03:27 #9 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 12:03:32 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 10444@MSI
+
+[2019-03-01 12:03:32 #2 type.registry] 
+New type domain.Question
+
+[2019-03-01 12:03:32 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 12:03:32 #4 type.registry] 
+New type domain.Event
+
+[2019-03-01 12:03:32 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 12:03:32 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 12:03:32 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2019-03-01 12:03:41 #8 type.registry] 
+New type domain.User
+
+[2019-03-01 12:03:41 #9 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 12:03:48 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 10344@MSI
+
+[2019-03-01 12:03:48 #2 type.registry] 
+New type domain.Question
+
+[2019-03-01 12:03:48 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 12:03:48 #4 type.registry] 
+New type domain.Event
+
+[2019-03-01 12:03:48 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 12:03:48 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-03-01 12:03:48 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2019-03-01 12:03:59 #8 type.registry] 
+New type domain.User
+
+[2019-03-01 12:03:59 #9 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 12:09:01 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' has been recovered (tr. 1-7)
+
+[2019-03-01 12:09:01 #2 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 14264@MSI
+
+[2019-03-01 12:09:01 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 12:09:01 #4 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 12:09:01 #5 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 12:09:24 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' has been recovered (tr. 8-8)
+
+[2019-03-01 12:09:24 #2 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 11740@MSI
+
+[2019-03-01 12:09:24 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 12:09:24 #4 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 12:09:24 #5 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 12:11:26 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 12768@MSI
+
+[2019-03-01 12:11:26 #2 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 12:11:26 #3 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 12:11:26 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 12:12:31 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 14456@MSI
+
+[2019-03-01 12:12:31 #2 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 12:12:31 #3 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 12:12:31 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 12:13:00 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 12588@MSI
+
+[2019-03-01 12:13:00 #2 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 12:13:00 #3 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 12:13:00 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 12:13:11 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 4704@MSI
+
+[2019-03-01 12:13:11 #2 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 12:13:11 #3 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 12:13:11 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 12:14:09 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 11220@MSI
+
+[2019-03-01 12:14:09 #2 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 12:14:10 #3 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 12:14:10 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 12:14:57 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 5568@MSI
+
+[2019-03-01 12:14:58 #2 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 12:14:58 #3 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 12:14:58 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 17:38:03 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 10480@MSI
+
+[2019-03-01 17:38:03 #2 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 17:38:03 #3 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 17:38:03 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 17:39:54 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' has been recovered (tr. 11-11)
+
+[2019-03-01 17:39:54 #2 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 11072@MSI
+
+[2019-03-01 17:39:54 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 17:39:54 #4 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 17:39:54 #5 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 17:40:47 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 12076@MSI
+
+[2019-03-01 17:40:48 #2 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 17:40:48 #3 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 17:40:48 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 17:42:58 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' has been recovered (tr. 12-12)
+
+[2019-03-01 17:42:58 #2 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 5152@MSI
+
+[2019-03-01 17:42:58 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 17:42:58 #4 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 17:42:58 #5 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 17:45:15 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 3888@MSI
+
+[2019-03-01 17:45:15 #2 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 17:45:15 #3 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 17:45:15 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 18:37:29 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' has been recovered (tr. 18-18)
+
+[2019-03-01 18:37:29 #2 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 7716@MSI
+
+[2019-03-01 18:37:29 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 18:37:30 #4 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 18:37:30 #5 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 18:42:37 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\Bets1\resources\bets.temp' is opened by 9800@MSI
+
+[2019-03-01 18:42:37 #2 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 18:42:37 #3 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 18:42:37 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 19:56:25 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 9652@MSI
+
+[2019-03-01 19:56:25 #2 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 19:56:25 #3 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 19:56:25 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 23:11:41 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 13296@MSI
+
+[2019-03-01 23:11:41 #2 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 23:11:41 #3 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 23:11:41 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-01 23:11:41 #5 type.registry] 
+New type domain.Erabiltzailea
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 23:13:38 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)\resources\bets.temp' has been recovered (tr. 28-28)
+
+[2019-03-01 23:13:38 #2 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 6936@MSI
+
+[2019-03-01 23:13:38 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 23:13:38 #4 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 23:13:38 #5 type] 
+Type domain.User is not enhanced.
+
+[2019-03-01 23:13:38 #6 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 23:22:03 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)\resources\bets.temp' has been recovered (tr. 29-31)
+
+[2019-03-01 23:22:03 #2 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 8028@MSI
+
+[2019-03-01 23:22:03 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 23:22:03 #4 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 23:22:03 #5 type] 
+Type domain.User is not enhanced.
+
+[2019-03-01 23:22:03 #6 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-01 23:31:39 #1 store] 
+Database 'C:\Users\david\Desktop\Eclipse-Projects\IS-Proiektua_(Bets)\resources\bets.temp' is opened by 13300@MSI
+
+[2019-03-01 23:31:39 #2 type] 
+Type domain.Question is not enhanced.
+
+[2019-03-01 23:31:39 #3 type] 
+Type domain.Event is not enhanced.
+
+[2019-03-01 23:31:39 #4 type] 
+Type domain.User is not enhanced.
+
+[2019-03-01 23:31:39 #5 type] 
+Type domain.Erabiltzailea is not enhanced.
+
